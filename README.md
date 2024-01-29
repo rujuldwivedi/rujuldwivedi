@@ -31,6 +31,7 @@ When not immersed in the digital realm, I'm either on the football field, showca
 🚀 **Profiles:**
 - 👨‍💻 [LeetCode](https://leetcode.com/rujuldwivedi/)
 - 💻 [Codeforces](https://codeforces.com/profile/rujuldwivedi/)
+- 🖥️ [GeeksforGeeks](https://auth.geeksforgeeks.org/user/rujuldwivedi)
 - 🎵 [Apple Music](https://music.apple.com/profile/rujuldwivedi/)
 
 <!-- Technical Expertise -->
