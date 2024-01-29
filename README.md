@@ -4,19 +4,20 @@
 I'm Rujul Dwivedi, a passionate machine learning enthusiast, cosmology aficionado, and math lover based in Lucknow, India. Currently pursuing my Bachelors degree in Mathematics and Computing at the Indian Institute of Technology (IIT) Goa.
 
 <!-- Bio -->
-🚀 **About Me:**
+# About Me
+
+I'm a passionate machine learning enthusiast, cosmology aficionado, and math lover based in Lucknow, India. Currently pursuing my Bachelors degree in Mathematics and Computing at the Indian Institute of Technology (IIT) Goa.
+
+## 🚀 Tech Enthusiast
 I'm a curious soul navigating the vast realms of technology. I'm currently immersed in the world of backend development and machine learning, where I merge my love for coding with the thrill of crafting intelligent algorithms.
 
-👨‍💻 **Tech Enthusiast:**
-I thrive on Java, weaving intricate code that powers robust and efficient systems. Exploring the intricacies of backend development, I enjoy architecting solutions that seamlessly connect and drive applications.
+## 👨‍💻 Machine Learning Explorer
+I thrive on Java, weaving intricate code that powers robust and efficient systems. Exploring the intricacies of backend development, I enjoy architecting solutions that seamlessly connect and drive applications. My repository, [MSDLProject](https://github.com/rujuldwivedi/MSDLProject), showcases my hands-on approach to applying ML concepts.
 
-🔍 **Machine Learning Explorer:**
-Venturing into the fascinating universe of machine learning, I'm on a journey to unravel its mysteries and leverage its power to solve real-world problems. My repository, [MSDLProject](https://github.com/rujuldwivedi/MSDLProject), showcases my hands-on approach to applying ML concepts.
-
-🎸 **Music & Creativity:**
+## 🔍 Music & Creativity
 Beyond the lines of code, you'll find me strumming my guitar, creating melodies that harmonize with my thoughts. Music, like coding, is an art of expression that fuels my creativity.
 
-⚽ **Sports Enthusiast:**
+## ⚽ Sports Enthusiast
 When not immersed in the digital realm, I'm either on the football field, showcasing my skills and camaraderie, or glued to the screen, cheering for Real Madrid and the Indian Cricket Team.
 
 <!-- Contact Info -->
