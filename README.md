@@ -43,7 +43,7 @@ When not immersed in the digital realm, I'm either on the football field, showca
 <!-- GitHub Repositories -->
 📚 **GitHub Repositories:**
 1. [JavaDSA](https://github.com/rujuldwivedi/JavaDSA): Java codes for popular DSA topics with sample cases and classes.
-2. [MSMLProject1](https://github.com/rujuldwivedi/MSMLProject1): Exciting projects showcasing my conceptual understanding of machine learning.
+2. [MSMLProject1](https://github.com/rujuldwivedi/MSMLProject1): Exciting project showcasing my conceptual understanding of machine learning.
 3. [MSMLProject2](https://github.com/rujuldwivedi/MSMLProject2): Another one of my machine learning projects vastly concentrated in real life applications.
 4. [Projects](https://github.com/rujuldwivedi/Projects): College assignments and sample projects including TensorFlow, Docker, Git, etc.
 
