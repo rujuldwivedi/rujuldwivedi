@@ -57,5 +57,5 @@ Feel free to explore my repositories, connect on LinkedIn, or drop me an email. 
 
 <!-- Images/Icons -->
 <p align="center">
-  <img src="[https://drive.google.com/file/d/1jhvrvgaO6w-LcBNAFTHGAHVkRxcjJKJ9/view?usp=sharing]" alt="Profile Image" width="200"/>
+  <img src="https://drive.google.com/file/d/1jhvrvgaO6w-LcBNAFTHGAHVkRxcjJKJ9/view?usp=sharing" alt="Profile Image" width="200"/>
 </p>
