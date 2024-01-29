@@ -21,7 +21,7 @@ When not immersed in the digital realm, I'm either on the football field, showca
 
 <!-- Contact Info -->
 📧 **Contact:**
-- 🏫 College: IIT Goa
+- 🏫 College: Indian Institute of Technology (IIT) Goa
 - 📍 Location: Lucknow, India
 - 📧 Email: rujuldwivedi@icloud.com
 - 🔗 LinkedIn: [Rujul Dwivedi](https://www.linkedin.com/in/rujuldwivedi/)
