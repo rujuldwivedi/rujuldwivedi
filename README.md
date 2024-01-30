@@ -1,5 +1,5 @@
 <!-- Header -->
-# Hello Reader! 👋
+# Hello Contributor! 👋
 
 I'm Rujul Dwivedi, a passionate machine learning enthusiast, cosmology aficionado, and math lover based in Lucknow, India. Currently pursuing my Bachelors degree in Mathematics and Computing at the Indian Institute of Technology (IIT) Goa.
 
