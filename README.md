@@ -27,12 +27,6 @@ When not immersed in the digital realm, I'm either on the football field, showca
 - 📧 Email: rujuldwivedi@icloud.com
 - 🔗 LinkedIn: [Rujul Dwivedi](https://www.linkedin.com/in/rujuldwivedi/)
 
-<!-- Profiles -->
-🚀 **Profiles:**
-- 👨‍💻 [LeetCode](https://leetcode.com/rujuldwivedi/)
-- 💻 [Codeforces](https://codeforces.com/profile/rujuldwivedi/)
-- 🖥️ [GeeksforGeeks](https://auth.geeksforgeeks.org/user/rujuldwivedi)
-
 <!-- Technical Expertise -->
 💻 **Tech Stack:**
 - Java | Back-End Development | Data Structures | Algorithms
