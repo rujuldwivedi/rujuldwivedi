@@ -12,7 +12,7 @@ I'm a curious soul navigating the vast realms of technology. I'm currently immer
 I thrive on Java, weaving intricate code that powers robust and efficient systems. Exploring the intricacies of backend development, I enjoy architecting solutions that seamlessly connect and drive applications.
 
 ## 👨‍💻 Machine Learning Explorer
-Venturing into the fascinating universe of machine learning, I'm on a journey to unravel its mysteries and leverage its power to solve real-world problems. My repository, [MSDLProject](https://github.com/rujuldwivedi/MSDLProject), showcases my hands-on approach to applying ML and DL concepts.
+Venturing into the fascinating universe of machine learning, I'm on a journey to unravel its mysteries and leverage its power to solve real-world problems. My repositories, consisting of various ML and DL projects, showcase my hands-on approach to applying ML and DL concepts.
 
 ## 🔍 Music & Creativity
 Beyond the lines of code, you'll find me strumming my guitar, creating melodies that harmonize with my thoughts. Music, like coding, is an art of expression that fuels my creativity.
@@ -39,9 +39,11 @@ When not immersed in the digital realm, I'm either on the football field, showca
 📚 **GitHub Repositories:**
 1. [JavaDSA](https://github.com/rujuldwivedi/JavaDSA): Java codes for popular DSA topics with sample cases and classes.
 2. [SpringBoot](https://github.com/rujuldwivedi/SpringBoot): SpringBoot strapped code for exciting web applications, docker, SQL, etc.
-3. [MSMLProject1](https://github.com/rujuldwivedi/MSMLProject1): Exciting project showcasing my conceptual understanding of machine learning.
-4. [MSMLProject2](https://github.com/rujuldwivedi/MSMLProject2): Another one of my machine learning projects vastly concentrated in real life applications.
-5. [LabAssgn](https://github.com/rujuldwivedi/LabAssgn): College assignments and sample project including TensorFlow, Docker, Git, etc.
+3. [MLDLProject1](https://github.com/rujuldwivedi/MLDLProject1): Exciting project showcasing my conceptual understanding of machine learning.
+4. [MLDLProject2](https://github.com/rujuldwivedi/MLDLProject2): Another one of my machine learning projects vastly concentrated in real life applications.
+5. [MLDLProject3](https://github.com/rujuldwivedi/MLDLProject1): Exciting project showcasing my conceptual understanding of deep learning.
+6. [MLDLProject4](https://github.com/rujuldwivedi/MLDLProject1): Another one of my deep learning projects vastly concentrated in real life applications.
+7. [LabAssgn](https://github.com/rujuldwivedi/LabAssgn): College assignments and sample project including TensorFlow, Docker, Git, etc.
 
 <!-- Footer -->
 📈 **GitHub Stats:**
