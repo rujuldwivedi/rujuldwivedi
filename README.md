@@ -42,8 +42,7 @@ When not immersed in the digital realm, I'm either on the football field, showca
 3. [Bulldozer Price Prediction](https://github.com/rujuldwivedi/Bulldozer-Price-Prediction)
 4. [Heart Disease Classification](https://github.com/rujuldwivedi/Heart-Disease-Classification)
 5. [Dog Vision](https://github.com/rujuldwivedi/Dog-Vision)
-6. [IPL Score Predictor](https://github.com/rujuldwivedi/IPL-Score-Predictor)
-7. [Lab Assignments](https://github.com/rujuldwivedi/Lab-Assignments)
+6. [Lab Assignments](https://github.com/rujuldwivedi/Lab-Assignments)
 
 <!-- Footer -->
 📈 **GitHub Stats:**
