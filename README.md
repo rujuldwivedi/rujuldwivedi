@@ -53,5 +53,5 @@ Feel free to explore my repositories, connect on LinkedIn, or drop me an email. 
 
 <!-- Images/Icons -->
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1jhvrvgaO6w-LcBNAFTHGAHVkRxcjJKJ9" alt="The Man Himself" width="200"/>
+  <img src="https://media.licdn.com/dms/image/D4D03AQHKHRdDZ3ZMGw/profile-displayphoto-shrink_800_800/0/1702466591636?e=1721865600&v=beta&t=Hx1fStonsN0sn8TXXDrY_bcT4TYWwpD-8VLej_Uc_gQ" alt="The Man Himself" width="200"/>
 </p>
