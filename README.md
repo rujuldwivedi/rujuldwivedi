@@ -37,11 +37,13 @@ When not immersed in the digital realm, I'm either on the football field, showca
 
 <!-- GitHub Repositories -->
 📚 **GitHub Repositories:**
-1. [Java DSA](https://github.com/rujuldwivedi/Java-DSA)
+1. [Dog Vision](https://github.com/rujuldwivedi/Dog-Vision)
 2. [Bulldozer Price Prediction](https://github.com/rujuldwivedi/Bulldozer-Price-Prediction)
 3. [Heart Disease Classification](https://github.com/rujuldwivedi/Heart-Disease-Classification)
-4. [Dog Vision](https://github.com/rujuldwivedi/Dog-Vision)
-5. [Lab Assignments](https://github.com/rujuldwivedi/Lab-Assignments)
+4. [Grade Submission](https://github.com/rujuldwivedi/Grade-Submission)
+5. [Global Superstore](https://github.com/rujuldwivedi/Global-Superstore)
+6. [Java DSA](https://github.com/rujuldwivedi/Java-DSA)
+7. [Lab Assignments](https://github.com/rujuldwivedi/Lab-Assignments)
 
 <!-- Footer -->
 📈 **GitHub Stats:**
