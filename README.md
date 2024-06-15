@@ -26,8 +26,6 @@ When not immersed in the digital realm, I'm either on the football field, showca
 - 📍 Location: Lucknow, India
 - 📧 Email: rujuldwivedi@icloud.com
 - 🔗 LinkedIn: [Rujul Dwivedi](https://www.linkedin.com/in/rujuldwivedi/)
-- 🔗 Instagram: [Rujul Dwivedi](https://www.instagram.com/rujuldwivedi/)
-- 🔗 Twitter: [Rujul Dwivedi](https://www.x.com/rujuldwivedi/)
 
 <!-- Technical Expertise -->
 💻 **Tech Stack:**
