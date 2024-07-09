@@ -37,14 +37,20 @@ When not immersed in the digital realm, I'm either on the football field, showca
 
 <!-- GitHub Repositories -->
 📚 **GitHub Repositories:**
-1. [Dog Vision](https://github.com/rujuldwivedi/Dog-Vision)
-2. [Underwater Object Detection](https://github.com/rujuldwivedi/Underwater-Object-Detection)
-3. [Bulldozer Price Prediction](https://github.com/rujuldwivedi/Bulldozer-Price-Prediction)
-4. [Heart Disease Classification](https://github.com/rujuldwivedi/Heart-Disease-Classification)
-5. [Grade Submission](https://github.com/rujuldwivedi/Grade-Submission)
-6. [Global Superstore](https://github.com/rujuldwivedi/Global-Superstore)
-7. [Java DSA](https://github.com/rujuldwivedi/Java-DSA)
-8. [Lab Assignments](https://github.com/rujuldwivedi/Lab-Assignments)
+1. [Underwater Object Detection](https://github.com/rujuldwivedi/Underwater-Object-Detection)
+2. [Artificially Intelligent Models](https://github.com/rujuldwivedi/Artificially-Inteliigent-Models)
+3. [Dog Vision](https://github.com/rujuldwivedi/Dog-Vision)
+4. [Bulldozer Price Prediction](https://github.com/rujuldwivedi/Bulldozer-Price-Prediction)
+5. [Heart Disease Classification](https://github.com/rujuldwivedi/Heart-Disease-Classification)
+6. [Football Data](https://github.com/rujuldwivedi/Football-Data)
+7. [Quant-Models](https://github.com/rujuldwivedi/Quant-Models)
+8. [Snake Java](https://github.com/rujuldwivedi/Snake-Java)
+9. [Global Superstore](https://github.com/rujuldwivedi/Global-Superstore)
+10. [Grade Submission](https://github.com/rujuldwivedi/Grade-Submission)
+11. [Employee Management System](https://github.com/rujuldwivedi/Employee-Management-System)
+12. [Lucknow Dijkstra](https://github.com/rujuldwivedi/Lucknow-Dijkstra)
+13. [Java DSA](https://github.com/rujuldwivedi/Java-DSA)
+14. [Lab Assignments](https://github.com/rujuldwivedi/Lab-Assignments) 
 
 <!-- Footer -->
 📈 **GitHub Stats:**
