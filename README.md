@@ -7,7 +7,7 @@
 
 <p align="center">
   I'm <strong>Rujul Dwivedi</strong>, a passionate machine learning enthusiast, cosmology aficionado, and math lover based in Lucknow, India.<br>
-  Currently pursuing my Bachelor's degree in Mathematics and Computing at the 
+  Currently pursuing my Bachelor's Degree in Mathematics and Computing at the 
   <strong>Indian Institute of Technology (IIT) Goa</strong>.
 </p>
 
