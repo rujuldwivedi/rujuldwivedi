@@ -222,12 +222,24 @@
 
 <!-- Positions of Responsibility -->
 ## 🏅 Positions of Responsibility
-- **Team Captain:**  
-  Team Captain of IIT Goa Football Team and IIT Goa Chess Team (2022 -- Present)
-- **Core Member:**  
-  Orion, IIT Goa Music Club (2021 -- Present)
-- **Core Member:**  
-  Originals, IIT Goa Photography Club (2021 -- Present)
+
+<div style="margin-left: 20px;">
+  <p>
+    <strong>Team Captain:</strong><br>
+    Team Captain of IIT Goa Football Team and IIT Goa Chess Team<br>
+    <em>(2022 -- Present)</em>
+  </p>
+  <p>
+    <strong>Core Member:</strong><br>
+    Orion, IIT Goa Music Club<br>
+    <em>(2021 -- Present)</em>
+  </p>
+  <p>
+    <strong>Core Member:</strong><br>
+    Originals, IIT Goa Photography Club<br>
+    <em>(2021 -- Present)</em>
+  </p>
+</div>
 
 <!-- Skills -->
 ## 🛠️ Skills
