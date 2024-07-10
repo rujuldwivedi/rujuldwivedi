@@ -22,11 +22,24 @@ When not immersed in the digital realm, I'm on the football field or cheering fo
 
 <!-- Contact Info -->
 ## 📧 Contact
-- 🏫 College: Indian Institute of Technology (IIT) Goa
-- 📍 Location: Lucknow, India
-- 📧 Email: rujul.dwivedi.21033@iitgoa.ac.in
-- 🔗 LinkedIn: [Rujul Dwivedi](https://www.linkedin.com/in/rujuldwivedi/)
-- 🔗 GitHub: [Rujul Dwivedi](https://github.com/rujuldwivedi)
+
+<div style="display: flex; flex-direction: column; align-items: start; gap: 10px;">
+  <div>
+    <strong>🏫 College:</strong> Indian Institute of Technology (IIT) Goa
+  </div>
+  <div>
+    <strong>📍 Location:</strong> Lucknow, India
+  </div>
+  <div>
+    <strong>📧 Email:</strong> <a href="mailto:rujul.dwivedi.21033@iitgoa.ac.in">rujul.dwivedi.21033@iitgoa.ac.in</a>
+  </div>
+  <div>
+    <strong>🔗 LinkedIn:</strong> <a href="https://www.linkedin.com/in/rujuldwivedi/" target="_blank">Rujul Dwivedi</a>
+  </div>
+  <div>
+    <strong>🔗 GitHub:</strong> <a href="https://github.com/rujuldwivedi" target="_blank">Rujul Dwivedi</a>
+  </div>
+</div>
 
 <!-- Technical Expertise -->
 ## 💻 Tech Stack
