@@ -37,12 +37,24 @@ When not immersed in the digital realm, I'm on the football field or cheering fo
 
 <!-- Education -->
 ## 🎓 Education
-- **BTech, Mathematics and Computing**  
-  Indian Institute of Technology Goa  
-  (2021 -- Present)
-- **Class 12, ISC**  
-  City Montessori School, Lucknow  
-  (2007 -- 2021)
+
+<table>
+  <tr>
+    <th>Degree</th>
+    <th>Institution</th>
+    <th>Duration</th>
+  </tr>
+  <tr>
+    <td>BTech, Mathematics and Computing</td>
+    <td>Indian Institute of Technology Goa</td>
+    <td>2021 -- Present</td>
+  </tr>
+  <tr>
+    <td>Class 12, ISC</td>
+    <td>City Montessori School, Lucknow</td>
+    <td>2007 -- 2021</td>
+  </tr>
+</table>
 
 <!-- Experience -->
 ## 💼 Experience
