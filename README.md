@@ -45,8 +45,8 @@ When not immersed in the digital realm, I'm on the football field or cheering fo
     <th>Duration</th>
   </tr>
   <tr>
-    <td>BTech, Mathematics and Computing</td>
-    <td>Indian Institute of Technology Goa</td>
+    <td>Bachelor of Technology, Mathematics and Computing</td>
+    <td>Indian Institute of Technology (IIT) Goa</td>
     <td>2021 -- Present</td>
   </tr>
   <tr>
