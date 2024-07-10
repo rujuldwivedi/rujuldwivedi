@@ -66,6 +66,15 @@
   <div>
     <strong>🔗 GitHub:</strong> <a href="https://github.com/rujuldwivedi" target="_blank">Rujul Dwivedi</a>
   </div>
+  <div>
+    <strong>🔗 Codeforces:</strong> <a href="https://codeforces.com/profile/rujuldwivedi" target="_blank">Rujul Dwivedi</a>
+  </div>
+  <div>
+    <strong>🔗 Leetcode:</strong> <a href="https://leetcode.com/u/rujuldwivedi/" target="_blank">Rujul Dwivedi</a>
+  </div>
+  <div>
+    <strong>🔗 Geeksforgeeks:</strong> <a href="https://www.geeksforgeeks.org/user/rujuldwivedi/" target="_blank">Rujul Dwivedi</a>
+  </div>
 </div>
 
 <!-- Technical Expertise -->
