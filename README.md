@@ -288,17 +288,17 @@
   <p>
     <strong>Team Captain</strong><br>
     IIT Goa Football Team<br>
-    <em>(2022 -- Present)</em>
+    <em>(2022 -- 2023)</em>
   </p>
   <p>
     <strong>Core Member</strong><br>
     Orion, IIT Goa Music Club<br>
-    <em>(2021 -- Present)</em>
+    <em>(2021 -- 2022)</em>
   </p>
   <p>
     <strong>Core Member</strong><br>
     Originals, IIT Goa Photography Club<br>
-    <em>(2021 -- Present)</em>
+    <em>(2021 -- 2022)</em>
   </p>
 </div>
 
@@ -310,7 +310,7 @@
 
 <!-- Hobbies -->
 ## 🎨 Hobbies
-- Playing Chess and Guitar, selected for Football at Inter IIT Sports Meet 2023
+- Playing Chess and Guitar, selected for Football at Inter IIT Sports Meet 2024
 - Coordinating various college events (Cultural Fests, Technical Fests, Festivals)
 - Attending talks, conferences, and seminars
 
