@@ -117,27 +117,29 @@
 </table>
 
 <!-- Experience -->
-<h2>💼 Experience</h2>
+<section style="background-color: #f7f7f7; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <h2 style="color: #333; font-size: 24px; margin-bottom: 10px;">💼 Experience</h2>
 
-<div style="margin-left: 20px;">
-  <p>
-    <strong>Under Water Object Detection using State of the Art Method</strong><br>
-    <a href="https://github.com/rujuldwivedi/Underwater-Object-Detection" target="_blank">GitHub</a> (June 2024 -- Present)
-  </p>
-  
-  <ul style="list-style-type: none; margin-left: 0; padding-left: 10px;">
-    <li>
-      <strong>Responsibilities:</strong>
-      <ul style="list-style-type: disc; margin-left: 0; padding-left: 20px;">
-        <li>Working under the guidance of Dr. Shitala Prasad.</li>
-        <li>Developing advanced object detection algorithms to identify and track underwater marine life.</li>
-        <li>Leveraging state-of-the-art deep learning models and computer vision techniques.</li>
-        <li>Conducting extensive data collection and preprocessing for underwater imagery.</li>
-        <li>Implementing models using TensorFlow and PyTorch to achieve high accuracy.</li>
-      </ul>
-    </li>
-  </ul>
-</div>
+  <div style="border-left: 2px solid #333; padding-left: 15px;">
+    <p style="margin-bottom: 5px;">
+      <strong>Under Water Object Detection using State of the Art Method</strong><br>
+      <a href="https://github.com/rujuldwivedi/Underwater-Object-Detection" target="_blank" style="color: #007bff; text-decoration: none;">GitHub</a> (June 2024 -- Present)
+    </p>
+    
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li style="margin-bottom: 10px;">
+        <strong>Responsibilities:</strong>
+        <ul style="list-style-type: disc; margin-top: 5px; padding-left: 20px;">
+          <li>Working under the guidance of Dr. Shitala Prasad.</li>
+          <li>Developing advanced object detection algorithms to identify and track underwater marine life.</li>
+          <li>Leveraging state-of-the-art deep learning models and computer vision techniques.</li>
+          <li>Conducting extensive data collection and preprocessing for underwater imagery.</li>
+          <li>Implementing models using TensorFlow and PyTorch to achieve high accuracy.</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</section>
 
 <!-- Projects -->
 ## 📚 Projects
