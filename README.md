@@ -15,14 +15,16 @@
 <h2 align="center">About Me</h2>
 
 <p>
-  I'm a curious soul navigating the vast realms of technology. I'm currently immersed in backend development and machine learning, 
+  I'm a curious soul navigating the vast realms of technology.<br>
+  I'm currently immersed in backend development and machine learning, 
   merging my love for coding with the thrill of crafting intelligent algorithms.
 </p>
 
 <div class="section">
   <h3><span class="icon">🚀</span> Tech Enthusiast</h3>
   <p>
-    I thrive on Java, weaving intricate code that powers robust and efficient systems. I enjoy architecting solutions that seamlessly connect and drive applications.
+    I thrive on Java, weaving intricate code that powers robust and efficient systems.<br>
+    I enjoy architecting solutions that seamlessly connect and drive applications.
   </p>
 </div>
 
