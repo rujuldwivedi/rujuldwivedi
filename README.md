@@ -19,33 +19,6 @@
   merging my love for coding with the thrill of crafting intelligent algorithms.
 </p>
 
-<style>
-  .section {
-    margin-bottom: 20px;
-    padding: 20px;
-    background-color: #f0f0f0;
-    border-radius: 10px;
-  }
-  
-  .section h3 {
-    font-size: 20px;
-    color: #007bff;
-    margin-bottom: 10px;
-  }
-  
-  .section p {
-    font-size: 16px;
-    line-height: 1.6;
-    color: #333;
-  }
-  
-  .section .icon {
-    font-size: 30px;
-    margin-right: 10px;
-    vertical-align: middle;
-  }
-</style>
-
 <div class="section">
   <h3><span class="icon">🚀</span> Tech Enthusiast</h3>
   <p>
