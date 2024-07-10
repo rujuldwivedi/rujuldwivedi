@@ -1,24 +1,43 @@
 <!-- Header -->
-# Hello Contributor! 👋
+<h1 align="center">Hello Contributor! 👋</h1>
 
-I'm Rujul Dwivedi, a passionate machine learning enthusiast, cosmology aficionado, and math lover based in Lucknow, India. Currently pursuing my Bachelor's degree in Mathematics and Computing at the Indian Institute of Technology (IIT) Goa.
+<p align="center">
+  <img src="https://via.placeholder.com/150" alt="Profile Picture" style="border-radius: 50%;">
+</p>
+
+<p align="center">
+  I'm <strong>Rujul Dwivedi</strong>, a passionate machine learning enthusiast, cosmology aficionado, and math lover based in Lucknow, India. 
+  Currently pursuing my Bachelor's degree in Mathematics and Computing at the 
+  <strong>Indian Institute of Technology (IIT) Goa</strong>.
+</p>
 
 <!-- Bio -->
-## About Me
+<h2 align="center">About Me</h2>
 
-I'm a curious soul navigating the vast realms of technology. I'm currently immersed in backend development and machine learning, merging my love for coding with the thrill of crafting intelligent algorithms.
+<p>
+  I'm a curious soul navigating the vast realms of technology. I'm currently immersed in backend development and machine learning, 
+  merging my love for coding with the thrill of crafting intelligent algorithms.
+</p>
 
-### 🚀 Tech Enthusiast
-I thrive on Java, weaving intricate code that powers robust and efficient systems. I enjoy architecting solutions that seamlessly connect and drive applications.
+<h3>🚀 Tech Enthusiast</h3>
+<p>
+  I thrive on Java, weaving intricate code that powers robust and efficient systems. I enjoy architecting solutions that seamlessly connect and drive applications.
+</p>
 
-### 👨‍💻 Machine Learning Explorer
-Venturing into the fascinating universe of machine learning, I'm on a journey to unravel its mysteries and leverage its power to solve real-world problems.
+<h3>👨‍💻 Machine Learning Explorer</h3>
+<p>
+  Venturing into the fascinating universe of machine learning, I'm on a journey to unravel its mysteries and leverage its power to solve real-world problems.
+</p>
 
-### 🎸 Music & Creativity
-Beyond the lines of code, you'll find me strumming my guitar, creating melodies that harmonize with my thoughts.
+<h3>🎸 Music & Creativity</h3>
+<p>
+  Beyond the lines of code, you'll find me strumming my guitar, creating melodies that harmonize with my thoughts.
+</p>
 
-### ⚽ Sports Enthusiast
-When not immersed in the digital realm, I'm on the football field or cheering for Real Madrid and the Indian Cricket Team.
+<h3>⚽ Sports Enthusiast</h3>
+<p>
+  When not immersed in the digital realm, I'm on the football field or cheering for Real Madrid and the Indian Cricket Team.
+</p>
 
 <!-- Contact Info -->
 ## 📧 Contact
