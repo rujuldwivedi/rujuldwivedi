@@ -226,7 +226,7 @@
 <div style="margin-left: 20px;">
   <p>
     <strong>Team Captain:</strong><br>
-    Team Captain of IIT Goa Football Team and IIT Goa Chess Team<br>
+    IIT Goa Football Team & IIT Goa Chess Team<br>
     <em>(2022 -- Present)</em>
   </p>
   <p>
@@ -243,10 +243,26 @@
 
 <!-- Skills -->
 ## 🛠️ Skills
-- **Machine Learning:** TensorFlow, PyTorch, Scikit-Learn, Keras, ETL, Model Evaluation
-- **Deep Learning:** CNNs, Transfer Learning, RNNs, GANs
-- **Artificial IntelligenceI:** DDPG, Evolution Strategies, Genetic Algorithms, LLMs, QLoRAs
-- **Additional:** Distributed & Parallel Development, Security Software Development, Proficient in English, Good Communicator, Technically Sound, Analytically Strong
+
+<div style="margin-left: 20px;">
+  <p>
+    <strong>Machine Learning:</strong><br>
+    TensorFlow, PyTorch, Scikit-Learn, Keras, ETL, Model Evaluation
+  </p>
+  <p>
+    <strong>Deep Learning:</strong><br>
+    CNNs, Transfer Learning, RNNs, GANs
+  </p>
+  <p>
+    <strong>Artificial Intelligence:</strong><br>
+    DDPG, Evolution Strategies, Genetic Algorithms, LLMs, QLoRAs
+  </p>
+  <p>
+    <strong>Additional:</strong><br>
+    Distributed & Parallel Development, Security Software Development, Proficient in English, Good Communicator, Technically Sound, Analytically Strong
+  </p>
+</div>
+
 
 <!-- Certifications -->
 ## 📜 Certifications
