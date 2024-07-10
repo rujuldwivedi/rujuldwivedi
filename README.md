@@ -2,7 +2,7 @@
 <h1 align="center">Hello Contributor! 👋</h1>
 
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Profile Picture" style="border-radius: 50%;">
+  <img src="https://media.licdn.com/dms/image/D5603AQEz5IzEFU1LzQ/profile-displayphoto-shrink_400_400/0/1716276233978?e=1726099200&v=beta&t=mbc3Whf6X2ChClg0M9sbZW4Y9wf8CARE7UZf-6YU-4s" alt="Profile Picture" style="border-radius: 50%;">
 </p>
 
 <p align="center">
