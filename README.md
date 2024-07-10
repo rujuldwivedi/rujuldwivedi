@@ -225,17 +225,17 @@
 
 <div style="margin-left: 20px;">
   <p>
-    <strong>Team Captain:</strong><br>
+    <strong>Team Captain</strong><br>
     IIT Goa Football Team<br>
     <em>(2022 -- Present)</em>
   </p>
   <p>
-    <strong>Core Member:</strong><br>
+    <strong>Core Member</strong><br>
     Orion, IIT Goa Music Club<br>
     <em>(2021 -- Present)</em>
   </p>
   <p>
-    <strong>Core Member:</strong><br>
+    <strong>Core Member</strong><br>
     Originals, IIT Goa Photography Club<br>
     <em>(2021 -- Present)</em>
   </p>
