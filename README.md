@@ -19,25 +19,61 @@
   merging my love for coding with the thrill of crafting intelligent algorithms.
 </p>
 
-<h3>🚀 Tech Enthusiast</h3>
-<p>
-  I thrive on Java, weaving intricate code that powers robust and efficient systems. I enjoy architecting solutions that seamlessly connect and drive applications.
-</p>
+<style>
+  .section {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+  }
+  
+  .section h3 {
+    font-size: 20px;
+    color: #007bff;
+    margin-bottom: 10px;
+  }
+  
+  .section p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+  }
+  
+  .section .icon {
+    font-size: 30px;
+    margin-right: 10px;
+    vertical-align: middle;
+  }
+</style>
 
-<h3>👨‍💻 Machine Learning Explorer</h3>
-<p>
-  Venturing into the fascinating universe of machine learning, I'm on a journey to unravel its mysteries and leverage its power to solve real-world problems.
-</p>
+<div class="section">
+  <h3><span class="icon">🚀</span> Tech Enthusiast</h3>
+  <p>
+    I thrive on Java, weaving intricate code that powers robust and efficient systems. I enjoy architecting solutions that seamlessly connect and drive applications.
+  </p>
+</div>
 
-<h3>🎸 Music & Creativity</h3>
-<p>
-  Beyond the lines of code, you'll find me strumming my guitar, creating melodies that harmonize with my thoughts.
-</p>
+<div class="section">
+  <h3><span class="icon">👨‍💻</span> Machine Learning Explorer</h3>
+  <p>
+    Venturing into the fascinating universe of machine learning, I'm on a journey to unravel its mysteries and leverage its power to solve real-world problems.
+  </p>
+</div>
 
-<h3>⚽ Sports Enthusiast</h3>
-<p>
-  When not immersed in the digital realm, I'm on the football field or cheering for Real Madrid and the Indian Cricket Team.
-</p>
+<div class="section">
+  <h3><span class="icon">🎸</span> Music & Creativity</h3>
+  <p>
+    Beyond the lines of code, you'll find me strumming my guitar, creating melodies that harmonize with my thoughts.
+  </p>
+</div>
+
+<div class="section">
+  <h3><span class="icon">⚽</span> Sports Enthusiast</h3>
+  <p>
+    When not immersed in the digital realm, I'm on the football field or cheering for Real Madrid and the Indian Cricket Team.
+  </p>
+</div>
+
 
 <!-- Contact Info -->
 ## 📧 Contact
