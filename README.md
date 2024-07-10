@@ -1,5 +1,3 @@
-Make it all look cooler!
-
 <!-- Header -->
 <h1 align="center">Hello Contributor! 👋</h1>
 
