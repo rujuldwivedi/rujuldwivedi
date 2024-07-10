@@ -141,25 +141,67 @@
 </section>
 
 <!-- Projects -->
-## 📚 Projects
-- **Machine Learning Models** (Mar 2023 -- May 2024)
-  - [Dog Vision](https://github.com/rujuldwivedi/Dog-Vision): Classifying photos of dogs into different breeds using TensorFlow.
-  - [Real-Time Object Detection](https://github.com/rujuldwivedi/Lab-Assignments/tree/main/MLDLProject): Detects objects using YOLO.
-  - [Bulldozer Price Regression](https://github.com/rujuldwivedi/Bulldozer-Price-Regression): Predicting bulldozer sale prices using regression.
-  - [Heart Disease Classification](https://github.com/rujuldwivedi/Heart-Disease-Classification): Predicting heart disease using classification techniques.
+<section style="background-color: #f0f0f0; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <h2 style="color: #333; font-size: 24px; margin-bottom: 15px;">📚 Projects</h2>
 
-- **SpringBoot Models** (Feb 2024 -- Mar 2024)
-  - [Grade Submission](https://github.com/rujuldwivedi/Grade-Submission): Managing student grades using SpringBoot.
-  - [Global Superstore](https://github.com/rujuldwivedi/Global-Superstore): Managing operations of a global retail superstore with SpringBoot.
+  <div>
+    <h3 style="color: #007bff; margin-bottom: 10px;">Machine Learning Models (Mar 2023 -- May 2024)</h3>
+    <ul style="list-style-type: none; padding-left: 0; margin-bottom: 15px;">
+      <li>
+        <strong><a href="https://github.com/rujuldwivedi/Dog-Vision" target="_blank" style="color: #333; text-decoration: none;">Dog Vision</a>:</strong> Classifying photos of dogs into different breeds using TensorFlow.
+      </li>
+      <li>
+        <strong><a href="https://github.com/rujuldwivedi/Lab-Assignments/tree/main/MLDLProject" target="_blank" style="color: #333; text-decoration: none;">Real-Time Object Detection</a>:</strong> Detects objects using YOLO.
+      </li>
+      <li>
+        <strong><a href="https://github.com/rujuldwivedi/Bulldozer-Price-Regression" target="_blank" style="color: #333; text-decoration: none;">Bulldozer Price Regression</a>:</strong> Predicting bulldozer sale prices using regression.
+      </li>
+      <li>
+        <strong><a href="https://github.com/rujuldwivedi/Heart-Disease-Classification" target="_blank" style="color: #333; text-decoration: none;">Heart Disease Classification</a>:</strong> Predicting heart disease using classification techniques.
+      </li>
+    </ul>
+  </div>
 
-- **Other Models/Projects** (Jan 2024 -- Jul 2024)
-  - [Artificially Intelligent Models](https://github.com/rujuldwivedi/Artificially-Intelligent-Models): Various Artificial Intelligence models and techniques.
-  - [Quant Models](https://github.com/rujuldwivedi/Quant-Models): Implementations of various Quant Finance models like Black-Scholes, Kalman Filter, etc.
-  - [Snake Java](https://github.com/rujuldwivedi/Snake-Java): Classic Snake game implemented in Java.
-  - [Lucknow Dijkstra](https://github.com/rujuldwivedi/Lucknow-Dijkstra): Calculating shortest path between metro stations in Lucknow using Dijkstra's Algorithm.
-  - [Football Data](https://github.com/rujuldwivedi/Football-Data): Analyzing football statistics for Real Madrid.
-  - [Employee Management System](https://github.com/rujuldwivedi/Employee-Management-System): Console-based employee management system in Java.
-  - [Java DSA](https://github.com/rujuldwivedi/Java-DSA): Analyzing algorithms using different data structures in Java.
+  <div>
+    <h3 style="color: #007bff; margin-bottom: 10px;">SpringBoot Models (Feb 2024 -- Mar 2024)</h3>
+    <ul style="list-style-type: none; padding-left: 0; margin-bottom: 15px;">
+      <li>
+        <strong><a href="https://github.com/rujuldwivedi/Grade-Submission" target="_blank" style="color: #333; text-decoration: none;">Grade Submission</a>:</strong> Managing student grades using SpringBoot.
+      </li>
+      <li>
+        <strong><a href="https://github.com/rujuldwivedi/Global-Superstore" target="_blank" style="color: #333; text-decoration: none;">Global Superstore</a>:</strong> Managing operations of a global retail superstore with SpringBoot.
+      </li>
+    </ul>
+  </div>
+
+  <div>
+    <h3 style="color: #007bff; margin-bottom: 10px;">Other Models/Projects (Jan 2024 -- Jul 2024)</h3>
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li>
+        <strong><a href="https://github.com/rujuldwivedi/Artificially-Intelligent-Models" target="_blank" style="color: #333; text-decoration: none;">Artificially Intelligent Models</a>:</strong> Various Artificial Intelligence models and techniques.
+      </li>
+      <li>
+        <strong><a href="https://github.com/rujuldwivedi/Quant-Models" target="_blank" style="color: #333; text-decoration: none;">Quant Models</a>:</strong> Implementations of various Quant Finance models like Black-Scholes, Kalman Filter, etc.
+      </li>
+      <li>
+        <strong><a href="https://github.com/rujuldwivedi/Snake-Java" target="_blank" style="color: #333; text-decoration: none;">Snake Java</a>:</strong> Classic Snake game implemented in Java.
+      </li>
+      <li>
+        <strong><a href="https://github.com/rujuldwivedi/Lucknow-Dijkstra" target="_blank" style="color: #333; text-decoration: none;">Lucknow Dijkstra</a>:</strong> Calculating shortest path between metro stations in Lucknow using Dijkstra's Algorithm.
+      </li>
+      <li>
+        <strong><a href="https://github.com/rujuldwivedi/Football-Data" target="_blank" style="color: #333; text-decoration: none;">Football Data</a>:</strong> Analyzing football statistics for Real Madrid.
+      </li>
+      <li>
+        <strong><a href="https://github.com/rujuldwivedi/Employee-Management-System" target="_blank" style="color: #333; text-decoration: none;">Employee Management System</a>:</strong> Console-based employee management system in Java.
+      </li>
+      <li>
+        <strong><a href="https://github.com/rujuldwivedi/Java-DSA" target="_blank" style="color: #333; text-decoration: none;">Java DSA</a>:</strong> Analyzing algorithms using different data structures in Java.
+      </li>
+    </ul>
+  </div>
+</section>
+
 
 <!-- Positions of Responsibility -->
 ## 🏅 Positions of Responsibility
