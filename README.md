@@ -12,7 +12,6 @@
       margin: 0;
       padding: 0;
     }
-    
     .container {
       max-width: 800px;
       margin: 20px auto;
@@ -21,27 +20,23 @@
       border-radius: 10px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     }
-    
     h1 {
       font-size: 36px;
       color: #007bff;
       text-align: center;
       margin-bottom: 10px;
     }
-    
     h2 {
       font-size: 24px;
       color: #333;
       text-align: center;
       margin-bottom: 20px;
     }
-    
     p {
       font-size: 16px;
       line-height: 1.6;
       text-align: center;
     }
-    
     img {
       width: 150px;
       height: 150px;
@@ -49,7 +44,6 @@
       margin-bottom: 20px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     }
-    
     .section {
       margin-bottom: 20px;
       padding: 20px;
@@ -57,19 +51,16 @@
       border-radius: 10px;
       box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
     }
-    
     .section h3 {
       font-size: 20px;
       color: #007bff;
       margin-bottom: 10px;
     }
-    
     .section p {
       font-size: 16px;
       line-height: 1.6;
       color: #333;
     }
-    
     .section .icon {
       font-size: 30px;
       margin-right: 10px;
@@ -80,38 +71,31 @@
 <body>
   <div class="container">
     <h1>Hello Contributor! 👋</h1>
-    
     <p>
       <img src="https://media.licdn.com/dms/image/D5603AQEz5IzEFU1LzQ/profile-displayphoto-shrink_400_400/0/1716276233978?e=1726099200&v=beta&t=mbc3Whf6X2ChClg0M9sbZW4Y9wf8CARE7UZf-6YU-4s" alt="Profile Picture">
     </p>
-    
     <p>
       I'm <strong>Rujul Dwivedi</strong>, a passionate machine learning enthusiast, cosmology aficionado, and math lover based in Lucknow, India. Currently pursuing my Bachelor's degree in Mathematics and Computing at the <strong>Indian Institute of Technology (IIT) Goa</strong>.
     </p>
-    
     <h2>About Me</h2>
-    
     <div class="section">
       <h3><span class="icon">🚀</span> Tech Enthusiast</h3>
       <p>
         I thrive on Java, weaving intricate code that powers robust and efficient systems. I enjoy architecting solutions that seamlessly connect and drive applications.
       </p>
     </div>
-    
     <div class="section">
       <h3><span class="icon">👨‍💻</span> Machine Learning Explorer</h3>
       <p>
         Venturing into the fascinating universe of machine learning, I'm on a journey to unravel its mysteries and leverage its power to solve real-world problems.
       </p>
     </div>
-    
     <div class="section">
       <h3><span class="icon">🎸</span> Music & Creativity</h3>
       <p>
         Beyond the lines of code, you'll find me strumming my guitar, creating melodies that harmonize with my thoughts.
       </p>
     </div>
-    
     <div class="section">
       <h3><span class="icon">⚽</span> Sports Enthusiast</h3>
       <p>
@@ -121,8 +105,6 @@
   </div>
 </body>
 </html>
-
-
 
 <!-- Contact Info -->
 ## 📧 Contact
