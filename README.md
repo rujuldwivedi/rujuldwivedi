@@ -226,7 +226,7 @@
 <div style="margin-left: 20px;">
   <p>
     <strong>Team Captain:</strong><br>
-    IIT Goa Football Team & IIT Goa Chess Team<br>
+    IIT Goa Football Team<br>
     <em>(2022 -- Present)</em>
   </p>
   <p>
@@ -244,23 +244,44 @@
 <!-- Skills -->
 ## 🛠️ Skills
 
+<style>
+  .skill-item {
+    margin-bottom: 10px;
+  }
+  .skill-item strong {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  .skill-item p {
+    margin: 0;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+  }
+  .skill-icon {
+    font-size: 20px;
+    margin-right: 5px;
+    vertical-align: middle;
+  }
+</style>
+
 <div style="margin-left: 20px;">
-  <p>
-    <strong>Machine Learning:</strong><br>
-    TensorFlow, PyTorch, Scikit-Learn, Keras, ETL, Model Evaluation
-  </p>
-  <p>
-    <strong>Deep Learning:</strong><br>
-    CNNs, Transfer Learning, RNNs, GANs
-  </p>
-  <p>
-    <strong>Artificial Intelligence:</strong><br>
-    DDPG, Evolution Strategies, Genetic Algorithms, LLMs, QLoRAs
-  </p>
-  <p>
-    <strong>Additional:</strong><br>
-    Distributed & Parallel Development, Security Software Development, Proficient in English, Good Communicator, Technically Sound, Analytically Strong
-  </p>
+  <div class="skill-item">
+    <strong><span class="skill-icon">🤖</span> Machine Learning:</strong>
+    <p>TensorFlow, PyTorch, Scikit-Learn, Keras, ETL, Model Evaluation</p>
+  </div>
+  <div class="skill-item">
+    <strong><span class="skill-icon">🧠</span> Deep Learning:</strong>
+    <p>CNNs, Transfer Learning, RNNs, GANs</p>
+  </div>
+  <div class="skill-item">
+    <strong><span class="skill-icon">🧬</span> Artificial Intelligence:</strong>
+    <p>DDPG, Evolution Strategies, Genetic Algorithms, LLMs, QLoRAs</p>
+  </div>
+  <div class="skill-item">
+    <strong><span class="skill-icon">🌐</span> Additional:</strong>
+    <p>Distributed & Parallel Development, Security Software Development, Proficient in English, Good Communicator, Technically Sound, Analytically Strong</p>
+  </div>
 </div>
 
 
