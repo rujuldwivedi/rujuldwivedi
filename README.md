@@ -67,8 +67,8 @@ When not immersed in the digital realm, I'm on the football field or cheering fo
   - [Global Superstore](https://github.com/rujuldwivedi/Global-Superstore): Managing operations of a global retail superstore with SpringBoot.
 
 - **Other Models/Projects** (Jan 2024 -- Jul 2024)
-  - [Artificially Intelligent Models](https://github.com/rujuldwivedi/Artificially-Intelligent-Models): Various AI models and techniques.
-  - [Quant Models](https://github.com/rujuldwivedi/Quant-Models): Implementations of various QF models like Black-Scholes, Kalman Filter, etc.
+  - [Artificially Intelligent Models](https://github.com/rujuldwivedi/Artificially-Intelligent-Models): Various Artificial Intelligence models and techniques.
+  - [Quant Models](https://github.com/rujuldwivedi/Quant-Models): Implementations of various Quant Finance models like Black-Scholes, Kalman Filter, etc.
   - [Snake Java](https://github.com/rujuldwivedi/Snake-Java): Classic Snake game implemented in Java.
   - [Lucknow Dijkstra](https://github.com/rujuldwivedi/Lucknow-Dijkstra): Calculating shortest path between metro stations in Lucknow using Dijkstra's Algorithm.
   - [Football Data](https://github.com/rujuldwivedi/Football-Data): Analyzing football statistics for Real Madrid.
