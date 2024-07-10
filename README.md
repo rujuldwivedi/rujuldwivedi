@@ -125,7 +125,6 @@
       <strong>Under Water Object Detection using State of the Art Method</strong><br>
       <a href="https://github.com/rujuldwivedi/Underwater-Object-Detection" target="_blank" style="color: #007bff; text-decoration: none;">GitHub</a> (June 2024 -- Present)
     </p>
-    
     <ul style="list-style-type: none; padding-left: 0;">
       <li style="margin-bottom: 10px;">
         <strong>Responsibilities:</strong>
