@@ -304,28 +304,22 @@
 <!-- Achievements -->
 ## 🏆 Achievements
 
-<table class="achievement-table">
-  <thead>
-    <tr>
-      <th>Achievement</th>
-      <th>Details</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Secured 5276 All India Rank in JEE Advanced</td>
-      <td>2021</td>
-    </tr>
-    <tr>
-      <td>Secured 8063 All India Rank in JEE Mains</td>
-      <td>2021</td>
-    </tr>
-    <tr>
-      <td>Secured 97.25% in Class 12th</td>
-      <td>Perfect scores in Mathematics and Computer Science</td>
-    </tr>
-  </tbody>
-</table>
+
+<div class="achievement">
+  <div class="achievement-title">Secured 5276 All India Rank in JEE Advanced</div>
+  <div class="achievement-details">2021</div>
+</div>
+
+<div class="achievement">
+  <div class="achievement-title">Secured 8063 All India Rank in JEE Mains</div>
+  <div class="achievement-details">2021</div>
+</div>
+
+<div class="achievement">
+  <div class="achievement-title">Secured 97.25% in Class 12th</div>
+  <div class="achievement-details">Perfect scores in Mathematics and Computer Science, 2021</div>
+</div>
+
 
 
 <!-- Hobbies -->
