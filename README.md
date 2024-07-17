@@ -223,7 +223,7 @@
 </section>
 
 <!-- Technical Expertise -->
-<h2>💻 Math/Tech Stack</h2>
+<h2>💻 Math-Tech</h2>
 
 <p>
   <img src="https://img.shields.io/badge/Code-C%20%2F%20C++-blue?logo=c%2B%2B&logoColor=white">
@@ -258,7 +258,7 @@
 </p>
 
 <!-- Skills -->
-## 🛠️ Skills
+## 🛠️ Skill-Stack
 
 <div style="margin-left: 20px;">
   <div class="skill-item">
