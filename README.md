@@ -69,20 +69,20 @@
   <img src="https://img.shields.io/badge/CS-Algorithms-red?logo=algolia&logoColor=white">
   <img src="https://img.shields.io/badge/CS-Operating%20Systems-yellow?logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/CS-Computer%20Networks-purple?logo=cisco&logoColor=white">
-  <img src="https://img.shields.io/badge/CS-Optimisation-green?logo=mariadb&logoColor=white">
+  <img src="https://img.shields.io/badge/CS-Optimisation-green?logo=optimizely&logoColor=white">
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/ML-Convolutional%20Neural%20Networks-red?logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/ML-Recurrent%20Neural%20Networks-green?logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/ML-Generative%20Adversarial%20Networks-orange?logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/ML-Convolutional%20Neural%20Networks-red?logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/ML-Recurrent%20Neural%20Networks-green?logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/ML-Generative%20Adversarial%20Networks-orange?logo=opencv&logoColor=white">
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/AI-Deep%20Deterministic%20Policy%20Gradient-blue?logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/AI-Large%20Language%20Models-yellow?logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/AI-Quantised%20Low%20Rank%20Adaptions-blue?logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/AI-Self%20Organising%20Maps-green?logo=api&logoColor=white">
+  <img src="https://img.shields.io/badge/AI-Deep%20Deterministic%20Policy%20Gradient-blue?logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/AI-Large%20Language%20Models-yellow?logo=transformers&logoColor=white">
+  <img src="https://img.shields.io/badge/AI-Quantised%20Low%20Rank%20Adaptions-blue?logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/AI-Self%20Organising%20Maps-green?logo=neuralnetworks&logoColor=white">
 </p>
 
 <p>
