@@ -47,42 +47,6 @@
   </p>
 </div>
 
-<!-- Certifications -->
-## 📜 Certifications
-
-<div style="margin-left: 20px;">
-  <div class="cert-item">
-    <a href="https://www.udemy.com/certificate/UC-fba7956e-1a23-4885-a741-14bfc1c2bf77/" target="_blank">Deep Learning</a>
-  </div>
-  <div class="cert-item">
-    <a href="https://www.udemy.com/certificate/UC-502e1a54-b560-47a8-bf2c-0b703225a8b8/" target="_blank">Artificial Intelligence</a>
-  </div>
-  <div class="cert-item">
-    <a href="https://www.udemy.com/certificate/UC-fac1778d-f4fb-454a-81bb-17fd40a52f5f/" target="_blank">Machine Learning</a>
-  </div>
-  <div class="cert-item">
-    <a href="https://www.udemy.com/certificate/UC-2332b8d7-fe02-4067-a653-d98c14f0f5f2/" target="_blank">SpringBoot Development</a>
-  </div>
-  <div class="cert-item">
-    <a href="https://coursera.org/share/dce8a30ba735b6416df6cddfc787662d" target="_blank">Tech Fundamentals</a>
-  </div>
-  <div class="cert-item">
-    <a href="https://coursera.org/share/ea016ccfd7063e8d832f235789e02b62" target="_blank">System Administration</a>
-  </div>
-  <div class="cert-item">
-    <a href="https://coursera.org/share/091d5d4a886b73da2779e05a162b0818" target="_blank">Operating Systems</a>
-  </div>
-  <div class="cert-item">
-    <a href="https://coursera.org/share/864326ea6f39acbe7db757a69cb6d979" target="_blank">Computer Networks</a>
-  </div>
-  <div class="cert-item">
-    <a href="https://coursera.org/share/22f9f70912c8941c164c49bf4212aeef" target="_blank">IT Security</a>
-  </div>
-  <div class="cert-item">
-    <a href="https://www.udemy.com/certificate/UC-87473223-3e96-4430-8657-f5265a91e951/" target="_blank">Java Development</a>
-  </div>
-</div>
-
 <!-- Experience -->
 <section style="background-color: #f7f7f7; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <h2 style="color: #333; font-size: 24px; margin-bottom: 10px;">💼 Experience</h2>
