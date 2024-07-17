@@ -15,7 +15,7 @@
 <h2 align="center">About Me</h2>
 
 <p>
-  I'm a curious soul navigating the vast realms of technology. I'm currently immersed in backend development and machine learning, 
+  I'm a curious soul navigating the vast realms of technology. I'm currently immersed in software development and machine learning, 
   merging my love for coding with the thrill of crafting intelligent algorithms.
 </p>
 
