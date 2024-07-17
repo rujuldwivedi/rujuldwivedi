@@ -80,7 +80,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/AI-Deep%20Deterministic%20Policy%20Gradient-blue?logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/AI-LLMs-yellow?logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/AI-Large%20Language%20Models-yellow?logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/AI-Quantised%20Low%20Rank%20Adaptions-blue?logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/AI-Self%20Organising%20Maps-green?logo=api&logoColor=white">
 </p>
