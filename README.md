@@ -77,31 +77,8 @@
   </div>
 </div>
 
-
-<!-- Education -->
-## 🎓 Education
-
-<table>
-  <tr>
-    <th>Degree</th>
-    <th>Institution</th>
-    <th>Duration</th>
-  </tr>
-  <tr>
-    <td>Bachelor of Technology, Mathematics and Computing</td>
-    <td>Indian Institute of Technology (IIT) Goa</td>
-    <td>2021 -- Present</td>
-  </tr>
-  <tr>
-    <td>Class 12, ISC</td>
-    <td>City Montessori School, Lucknow</td>
-    <td>2007 -- 2021</td>
-  </tr>
-</table>
-
 <!-- Certifications -->
 ## 📜 Certifications
-
 
 <div style="margin-left: 20px;">
   <div class="cert-item">
