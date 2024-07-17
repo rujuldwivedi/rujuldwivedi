@@ -47,91 +47,64 @@
   </p>
 </div>
 
-<!-- Experience -->
+<!-- Repositories -->
 <section style="background-color: #f7f7f7; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <h2 style="color: #333; font-size: 24px; margin-bottom: 10px;">💼 Experience</h2>
+  <h2 style="color: #333; font-size: 24px; margin-bottom: 10px;">📦 Repositories</h2>
 
   <div style="border-left: 2px solid #333; padding-left: 15px;">
     <p style="margin-bottom: 5px;">
-      <strong>Under Water Object Detection using State of the Art Method</strong><br>
-      <a href="https://github.com/rujuldwivedi/Underwater-Object-Detection" target="_blank" style="color: #007bff; text-decoration: none;">GitHub</a> (June 2024 -- Present)
+      <strong><a href="https://github.com/rujuldwivedi/Underwater-Object-Detection" target="_blank" style="color: #007bff; text-decoration: none;">Under Water Object Detection using State of the Art Method</a></strong><br>
+      Detecting and tracking underwater marine life using advanced object detection algorithms and deep learning models.
     </p>
-    <ul style="list-style-type: none; padding-left: 0;">
-      <li style="margin-bottom: 10px;">
-        <strong>Responsibilities:</strong>
-        <ul style="list-style-type: disc; margin-top: 5px; padding-left: 20px;">
-          <li>Working under the guidance of Dr. Shitala Prasad.</li>
-          <li>Developing advanced object detection algorithms to identify and track underwater marine life.</li>
-          <li>Leveraging state-of-the-art deep learning models and computer vision techniques.</li>
-          <li>Conducting extensive data collection and preprocessing for underwater imagery.</li>
-          <li>Implementing models using TensorFlow and PyTorch to achieve high accuracy.</li>
-        </ul>
-      </li>
-    </ul>
   </div>
-</section>
-
-<!-- Projects -->
-<section style="background-color: #f0f0f0; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <h2 style="color: #333; font-size: 24px; margin-bottom: 15px;">📚 Projects</h2>
 
   <div>
-    <h3 style="color: #007bff; margin-bottom: 10px;">Machine Learning Models (Mar 2023 -- May 2024)</h3>
     <ul style="list-style-type: none; padding-left: 0; margin-bottom: 15px;">
       <li>
-        <strong><a href="https://github.com/rujuldwivedi/Dog-Vision" target="_blank" style="color: #333; text-decoration: none;">Dog Vision</a>:</strong> Classifying photos of dogs into different breeds using TensorFlow.
+        <strong><a href="https://github.com/rujuldwivedi/Dog-Vision" target="_blank" style="color: #007bff; text-decoration: none;">Dog Vision</a>:</strong> Classifying photos of dogs into different breeds using TensorFlow.
       </li>
       <li>
-        <strong><a href="https://github.com/rujuldwivedi/Lab-Assignments/tree/main/MLDLProject" target="_blank" style="color: #333; text-decoration: none;">Real-Time Object Detection</a>:</strong> Detects objects using YOLO.
+        <strong><a href="https://github.com/rujuldwivedi/Lab-Assignments/tree/main/MLDLProject" target="_blank" style="color: #007bff; text-decoration: none;">Real-Time Object Detection</a>:</strong> Detects objects using YOLO.
       </li>
       <li>
-        <strong><a href="https://github.com/rujuldwivedi/Bulldozer-Price-Regression" target="_blank" style="color: #333; text-decoration: none;">Bulldozer Price Regression</a>:</strong> Predicting bulldozer sale prices using regression.
+        <strong><a href="https://github.com/rujuldwivedi/Bulldozer-Price-Regression" target="_blank" style="color: #007bff; text-decoration: none;">Bulldozer Price Regression</a>:</strong> Predicting bulldozer sale prices using regression.
       </li>
       <li>
-        <strong><a href="https://github.com/rujuldwivedi/Heart-Disease-Classification" target="_blank" style="color: #333; text-decoration: none;">Heart Disease Classification</a>:</strong> Predicting heart disease using classification techniques.
+        <strong><a href="https://github.com/rujuldwivedi/Heart-Disease-Classification" target="_blank" style="color: #007bff; text-decoration: none;">Heart Disease Classification</a>:</strong> Predicting heart disease using classification techniques.
+      </li>
+      <li>
+        <strong><a href="https://github.com/rujuldwivedi/Grade-Submission" target="_blank" style="color: #007bff; text-decoration: none;">Grade Submission</a>:</strong> Managing student grades using SpringBoot.
+      </li>
+      <li>
+        <strong><a href="https://github.com/rujuldwivedi/Global-Superstore" target="_blank" style="color: #007bff; text-decoration: none;">Global Superstore</a>:</strong> Managing operations of a global retail superstore with SpringBoot.
+      </li>
+      <li>
+        <strong><a href="https://github.com/rujuldwivedi/Artificially-Intelligent-Models" target="_blank" style="color: #007bff; text-decoration: none;">Artificially Intelligent Models</a>:</strong> Various Artificial Intelligence models and techniques.
+      </li>
+      <li>
+        <strong><a href="https://github.com/rujuldwivedi/Quant-Models" target="_blank" style="color: #007bff; text-decoration: none;">Quant Models</a>:</strong> Implementations of various Quant Finance models like Black-Scholes, Kalman Filter, etc.
+      </li>
+      <li>
+        <strong><a href="https://github.com/rujuldwivedi/Snake-Java" target="_blank" style="color: #007bff; text-decoration: none;">Snake Java</a>:</strong> Classic Snake game implemented in Java.
+      </li>
+      <li>
+        <strong><a href="https://github.com/rujuldwivedi/Lucknow-Dijkstra" target="_blank" style="color: #007bff; text-decoration: none;">Lucknow Dijkstra</a>:</strong> Calculating shortest path between metro stations in Lucknow using Dijkstra's Algorithm.
+      </li>
+      <li>
+        <strong><a href="https://github.com/rujuldwivedi/Football-Data" target="_blank" style="color: #007bff; text-decoration: none;">Football Data</a>:</strong> Analyzing football statistics for Real Madrid.
+      </li>
+      <li>
+        <strong><a href="https://github.com/rujuldwivedi/Employee-Management-System" target="_blank" style="color: #007bff; text-decoration: none;">Employee Management System</a>:</strong> Console-based employee management system in Java.
+      </li>
+      <li>
+        <strong><a href="https://github.com/rujuldwivedi/Java-DSA" target="_blank" style="color: #007bff; text-decoration: none;">Java DSA</a>:</strong> Analyzing algorithms using different data structures in Java.
       </li>
     </ul>
   </div>
 
-  <div>
-    <h3 style="color: #007bff; margin-bottom: 10px;">SpringBoot Models (Feb 2024 -- Mar 2024)</h3>
-    <ul style="list-style-type: none; padding-left: 0; margin-bottom: 15px;">
-      <li>
-        <strong><a href="https://github.com/rujuldwivedi/Grade-Submission" target="_blank" style="color: #333; text-decoration: none;">Grade Submission</a>:</strong> Managing student grades using SpringBoot.
-      </li>
-      <li>
-        <strong><a href="https://github.com/rujuldwivedi/Global-Superstore" target="_blank" style="color: #333; text-decoration: none;">Global Superstore</a>:</strong> Managing operations of a global retail superstore with SpringBoot.
-      </li>
-    </ul>
-  </div>
-
-  <div>
-    <h3 style="color: #007bff; margin-bottom: 10px;">Other Models/Projects (Jan 2024 -- Jul 2024)</h3>
-    <ul style="list-style-type: none; padding-left: 0;">
-      <li>
-        <strong><a href="https://github.com/rujuldwivedi/Artificially-Intelligent-Models" target="_blank" style="color: #333; text-decoration: none;">Artificially Intelligent Models</a>:</strong> Various Artificial Intelligence models and techniques.
-      </li>
-      <li>
-        <strong><a href="https://github.com/rujuldwivedi/Quant-Models" target="_blank" style="color: #333; text-decoration: none;">Quant Models</a>:</strong> Implementations of various Quant Finance models like Black-Scholes, Kalman Filter, etc.
-      </li>
-      <li>
-        <strong><a href="https://github.com/rujuldwivedi/Snake-Java" target="_blank" style="color: #333; text-decoration: none;">Snake Java</a>:</strong> Classic Snake game implemented in Java.
-      </li>
-      <li>
-        <strong><a href="https://github.com/rujuldwivedi/Lucknow-Dijkstra" target="_blank" style="color: #333; text-decoration: none;">Lucknow Dijkstra</a>:</strong> Calculating shortest path between metro stations in Lucknow using Dijkstra's Algorithm.
-      </li>
-      <li>
-        <strong><a href="https://github.com/rujuldwivedi/Football-Data" target="_blank" style="color: #333; text-decoration: none;">Football Data</a>:</strong> Analyzing football statistics for Real Madrid.
-      </li>
-      <li>
-        <strong><a href="https://github.com/rujuldwivedi/Employee-Management-System" target="_blank" style="color: #333; text-decoration: none;">Employee Management System</a>:</strong> Console-based employee management system in Java.
-      </li>
-      <li>
-        <strong><a href="https://github.com/rujuldwivedi/Java-DSA" target="_blank" style="color: #333; text-decoration: none;">Java DSA</a>:</strong> Analyzing algorithms using different data structures in Java.
-      </li>
-    </ul>
-  </div>
 </section>
+
+
 
 <!-- Technical Expertise -->
 <h2>💻 Math-Tech</h2>
