@@ -279,12 +279,6 @@
   </div>
 </div>
 
-<!-- Hobbies -->
-## 🎨 Hobbies
-- Playing Chess and Guitar, selected for Football at Inter IIT Sports Meet 2024
-- Coordinating various college events (Cultural Fests, Technical Fests, Festivals)
-- Attending talks, conferences, and seminars
-
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
 ![Rujul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rujuldwivedi&show_icons=true&theme=radical)
