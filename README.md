@@ -47,36 +47,6 @@
   </p>
 </div>
 
-<!-- Contact Info -->
-## 📞 Contact
-
-<div style="display: flex; flex-direction: column; align-items: start; gap: 10px;">
-  <div>
-    <strong>🏫 College:</strong> Indian Institute of Technology (IIT) Goa
-  </div>
-  <div>
-    <strong>📍 Location:</strong> Lucknow, India
-  </div>
-  <div>
-    <strong>📧 Email:</strong> <a href="mailto:rujul.dwivedi.21033@iitgoa.ac.in">rujul.dwivedi.21033@iitgoa.ac.in</a>
-  </div>
-  <div>
-    <strong><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn Logo" style="height: 20px; vertical-align: middle;"> LinkedIn:</strong> <a href="https://www.linkedin.com/in/rujuldwivedi/" target="_blank">Rujul Dwivedi</a>
-  </div>
-  <div>
-    <strong><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" style="height: 20px; vertical-align: middle;"> GitHub:</strong> <a href="https://github.com/rujuldwivedi" target="_blank">Rujul Dwivedi</a>
-  </div>
-  <div>
-    <strong>🔗 Codeforces:</strong> <a href="https://codeforces.com/profile/rujuldwivedi" target="_blank">Rujul Dwivedi</a>
-  </div>
-  <div>
-    <strong>🔗 Leetcode:</strong> <a href="https://leetcode.com/u/rujuldwivedi/" target="_blank">Rujul Dwivedi</a>
-  </div>
-  <div>
-    <strong>🔗 Geeksforgeeks:</strong> <a href="https://www.geeksforgeeks.org/user/rujuldwivedi/" target="_blank">Rujul Dwivedi</a>
-  </div>
-</div>
-
 <!-- Certifications -->
 ## 📜 Certifications
 
