@@ -88,19 +88,11 @@
 <div style="margin-left: 20px;">
   <div class="skill-item">
     <strong><span class="skill-icon">🤖</span> Machine Learning:</strong>
-    <p>TensorFlow, PyTorch, Scikit-Learn, Keras, ETL, Model Evaluation</p>
+    <p>CNNs, Transfer Learning, RNNs, GANs ETL, Model Evaluation</p>
   </div>
   <div class="skill-item">
-    <strong><span class="skill-icon">🧠</span> Deep Learning:</strong>
-    <p>CNNs, Transfer Learning, RNNs, GANs</p>
-  </div>
-  <div class="skill-item">
-    <strong><span class="skill-icon">🧬</span> Artificial Intelligence:</strong>
+    <strong><span class="skill-icon">🧠</span> Artificial Intelligence:</strong>
     <p>DDPG, Evolution Strategies, Genetic Algorithms, LLMs, QLoRAs</p>
-  </div>
-  <div class="skill-item">
-    <strong><span class="skill-icon">🌐</span> Additional:</strong>
-    <p>Distributed & Parallel Development, Security Software Development, Proficient in English, Good Communicator, Technically Sound, Analytically Strong</p>
   </div>
 </div>
 
