@@ -223,7 +223,7 @@
 </section>
 
 <!-- Technical Expertise -->
-<h2>💻 Tech Stack</h2>
+<h2>💻 Math/Tech Stack</h2>
 
 <p>
   <img src="https://img.shields.io/badge/Code-C%20%2F%20C++-blue?logo=c%2B%2B&logoColor=white">
