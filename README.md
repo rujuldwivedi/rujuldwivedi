@@ -50,16 +50,10 @@
 <!-- Repositories -->
 <section style="background-color: #f7f7f7; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <h2 style="color: #333; font-size: 24px; margin-bottom: 10px;">📦 Repositories</h2>
-
-  <div style="border-left: 2px solid #333; padding-left: 15px;">
-    <p style="margin-bottom: 5px;">
-      <strong><a href="https://github.com/rujuldwivedi/Underwater-Object-Detection" target="_blank" style="color: #007bff; text-decoration: none;">Under Water Object Detection using State of the Art Method</a></strong><br>
-      Detecting and tracking underwater marine life using advanced object detection algorithms and deep learning models.
-    </p>
-  </div>
-
-  <div>
     <ul style="list-style-type: none; padding-left: 0; margin-bottom: 15px;">
+      <li>
+        <strong><a href="https://github.com/rujuldwivedi/Underwater-Object-Detection" target="_blank" style="color: #007bff; text-decoration: none;">Underwater Object Detection</a>:</strong> Detecting and tracking underwater marine life using advanced object detection algorithms and deep learning models.
+      </li>
       <li>
         <strong><a href="https://github.com/rujuldwivedi/Dog-Vision" target="_blank" style="color: #007bff; text-decoration: none;">Dog Vision</a>:</strong> Classifying photos of dogs into different breeds using TensorFlow.
       </li>
