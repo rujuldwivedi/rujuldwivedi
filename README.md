@@ -75,14 +75,14 @@
 <p>
   <img src="https://img.shields.io/badge/ML-Convolutional%20Neural%20Networks-red?logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/ML-Recurrent%20Neural%20Networks-green?logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/ML-Generative%20Adversial%20Networks-orange?logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/ML-Generative%20Adversarial%20Networks-orange?logo=kubernetes&logoColor=white">
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/AI-DDPG-blue?logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/AI-Deep%20Deterministic%20Policy%20Gradient-blue?logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/AI-LLMs-yellow?logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/AI-QLoRAs-blue?logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/AI-SOMs-green?logo=api&logoColor=white">
+  <img src="https://img.shields.io/badge/AI-Quantised%20Low%20Rank%20Adaptions-blue?logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/AI-Self%20Organising%20Maps-green?logo=api&logoColor=white">
 </p>
 
 <p>
