@@ -51,18 +51,17 @@
 <h2>💻 Math-Tech</h2>
 
 <p>
-  <img src="https://img.shields.io/badge/Code-C%20%2F%20C++-blue?logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-C++-blue?logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Code-Java-yellow?logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Code-SQL-lightgrey?logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Code-Unix%2FLinux-darkgreen?logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-Linux-darkgreen?logo=linux&logoColor=white">
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Math-Probability-red?logo=mathworks&logoColor=white">
+  <img src="https://img.shields.io/badge/Math-Probability%20&%20Statistics-red?logo=mathworks&logoColor=white">
   <img src="https://img.shields.io/badge/Math-Calculus-orange?logo=mathworks&logoColor=white">
   <img src="https://img.shields.io/badge/Math-Linear%20Algebra-blue?logo=mathworks&logoColor=white">
-  <img src="https://img.shields.io/badge/Math-Real%20&%20Complex%20Analysis-purple?logo=mathworks&logoColor=white">
+  <img src="https://img.shields.io/badge/Math-Complex%20Analysis-purple?logo=mathworks&logoColor=white">
 </p>
 
 <p>
@@ -70,14 +69,13 @@
   <img src="https://img.shields.io/badge/CS-Algorithms-red?logo=algolia&logoColor=white">
   <img src="https://img.shields.io/badge/CS-Operating%20Systems-yellow?logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/CS-Computer%20Networks-purple?logo=cisco&logoColor=white">
-  <img src="https://img.shields.io/badge/CS-DBMS-green?logo=mariadb&logoColor=white">
+  <img src="https://img.shields.io/badge/CS-Optimisation-green?logo=mariadb&logoColor=white">
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Tools-Git-orange?logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-Docker-blue?logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-Kubernetes-blue?logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-Jupyter%20Notebooks-orange?logo=jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-RESTful%20APIs-green?logo=api&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-Spring%20Boot-brightgreen?logo=spring&logoColor=white">
 </p>
