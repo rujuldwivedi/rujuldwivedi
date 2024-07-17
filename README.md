@@ -43,7 +43,7 @@
 <div class="section">
   <h3><span class="icon">⚽</span> Sports Enthusiast</h3>
   <p>
-    When not immersed in the digital realm, I'm on the football field or cheering for Real Madrid and the Indian Cricket Team.
+    When not immersed in the digital realm, I'm either on the football field or cheering for Real Madrid and the Indian Cricket Team.
   </p>
 </div>
 
