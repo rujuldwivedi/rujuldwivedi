@@ -234,12 +234,10 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Tools-Git-orange?logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-Docker-blue?logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-Kubernetes-blue?logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-Jupyter%20Notebooks-orange?logo=jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-RESTful%20APIs-green?logo=api&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-Spring%20Boot-brightgreen?logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Math-Probability-red?logo=mathworks&logoColor=white">
+  <img src="https://img.shields.io/badge/Math-Calculus-orange?logo=mathworks&logoColor=white">
+  <img src="https://img.shields.io/badge/Math-Linear%20Algebra-blue?logo=mathworks&logoColor=white">
+  <img src="https://img.shields.io/badge/Math-Real%20&%20Complex%20Analysis-purple?logo=mathworks&logoColor=white">
 </p>
 
 <p>
@@ -251,10 +249,12 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Math-Probability-red?logo=mathworks&logoColor=white">
-  <img src="https://img.shields.io/badge/Math-Calculus-orange?logo=mathworks&logoColor=white">
-  <img src="https://img.shields.io/badge/Math-Linear%20Algebra-blue?logo=mathworks&logoColor=white">
-  <img src="https://img.shields.io/badge/Math-Real%20&%20Complex%20Analysis-purple?logo=mathworks&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Git-orange?logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Docker-blue?logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Kubernetes-blue?logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Jupyter%20Notebooks-orange?logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-RESTful%20APIs-green?logo=api&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Spring%20Boot-brightgreen?logo=spring&logoColor=white">
 </p>
 
 <!-- Skills -->
