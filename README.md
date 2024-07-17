@@ -73,26 +73,25 @@
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/ML-CNNs-red?logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/ML-RNNs-green?logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/ML-GANs-orange?logo=kubernetes&logoColor=white">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/AI-DDPG-blue?logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/AI-LLMs-yellow?logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/AI-QLoRAs-blue?logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/AI-SOMs-green?logo=api&logoColor=white">
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Tools-Git-orange?logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-Docker-blue?logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-Kubernetes-blue?logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-RESTful%20APIs-green?logo=api&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-Spring%20Boot-brightgreen?logo=spring&logoColor=white">
 </p>
-
-<!-- Skills -->
-## 🛠️ Skill-Stack
-
-<div style="margin-left: 20px;">
-  <div class="skill-item">
-    <strong><span class="skill-icon">🤖</span> Machine Learning:</strong>
-    <p>CNNs, Transfer Learning, RNNs, GANs ETL, Model Evaluation</p>
-  </div>
-  <div class="skill-item">
-    <strong><span class="skill-icon">🧠</span> Artificial Intelligence:</strong>
-    <p>DDPG, Evolution Strategies, Genetic Algorithms, LLMs, QLoRAs</p>
-  </div>
-</div>
 
 <!-- Repositories -->
 <section style="background-color: #f7f7f7; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
