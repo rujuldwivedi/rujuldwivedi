@@ -73,9 +73,9 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/ML-CNNs-red?logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/ML-RNNs-green?logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/ML-GANs-orange?logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/ML-Convolutional%20Neural%20Networks-red?logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/ML-Recurrent%20Neural%20Networks-green?logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/ML-Generative%20Adversial%20Networks-orange?logo=kubernetes&logoColor=white">
 </p>
 
 <p>
