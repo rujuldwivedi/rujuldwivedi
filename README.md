@@ -279,35 +279,6 @@
   </div>
 </div>
 
-
-
-<!-- Positions of Responsibility -->
-## 🏅 Positions of Responsibility
-
-<div style="margin-left: 20px;">
-  <p>
-    <strong>Team Captain</strong><br>
-    IIT Goa Football Team<br>
-    <em>(2022 -- 2023)</em>
-  </p>
-  <p>
-    <strong>Core Member</strong><br>
-    Orion, IIT Goa Music Club<br>
-    <em>(2021 -- 2022)</em>
-  </p>
-  <p>
-    <strong>Core Member</strong><br>
-    Originals, IIT Goa Photography Club<br>
-    <em>(2021 -- 2022)</em>
-  </p>
-</div>
-
-
-<!-- Achievements -->
-## 🏆 Achievements
-- Secured 5276 All India Rank in JEE Advanced and 8063 All India Rank in JEE Mains (2021)
-- Secured 97.25% in Class 12th with perfect scores in Mathematics and Computer Science (2021)
-
 <!-- Hobbies -->
 ## 🎨 Hobbies
 - Playing Chess and Guitar, selected for Football at Inter IIT Sports Meet 2024
