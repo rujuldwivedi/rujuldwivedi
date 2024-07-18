@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  I'm <strong><a href="rujul.dwivedi.21033@iitgoa.ac.in" target="_blank">Rujul Dwivedi</a></strong>, a passionate machine learning enthusiast, cosmology aficionado, and math lover based in Lucknow, India.<br>
+  I'm <strong><a href="mailto:rujul.dwivedi.21033@iitgoa.ac.in" target="_blank">Rujul Dwivedi</a></strong>, a passionate machine learning enthusiast, cosmology aficionado, and math lover based in Lucknow, India.<br>
   Currently pursuing my Bachelor's Degree in Mathematics and Computing at the 
   <strong><a href="https://iitgoa.ac.in/" target="_blank">Indian Institute of Technology (IIT) Goa</a></strong>.
 </p>
