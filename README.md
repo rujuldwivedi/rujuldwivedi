@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  I'm <strong><a href="https://www.linkedin.com/in/rujuldwivedi/" target="_blank">Rujul Dwivedi</a></strong>, a passionate machine learning enthusiast, cosmology aficionado, and math lover based in Lucknow, India.<br>
+  I'm <strong><a href="rujul.dwivedi.21033@iitgoa.ac.in" target="_blank">Rujul Dwivedi</a></strong>, a passionate machine learning enthusiast, cosmology aficionado, and math lover based in Lucknow, India.<br>
   Currently pursuing my Bachelor's Degree in Mathematics and Computing at the 
   <strong><a href="https://iitgoa.ac.in/" target="_blank">Indian Institute of Technology (IIT) Goa</a></strong>.
 </p>
@@ -148,7 +148,6 @@
 
 I'm always excited to connect with fellow developers, enthusiasts, and anyone passionate about technology. Feel free to reach out to me through any of the following platforms:
 
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rujul.dwivedi.21033@iitgoa.ac.in)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rujuldwivedi/)
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rujuldwivedi)
 - [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rujuldwivedi)
