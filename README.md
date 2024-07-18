@@ -51,47 +51,98 @@
 <h2>💻 Math-Tech</h2>
 
 <p>
-  <img src="https://img.shields.io/badge/Code-C++-blue?logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Code-Java-yellow?logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Code-Linux-darkgreen?logo=linux&logoColor=white">
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+    <img src="https://img.shields.io/badge/Code-C++-blue?logo=c%2B%2B&logoColor=white">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank">
+    <img src="https://img.shields.io/badge/Code-Java-yellow?logo=java&logoColor=white">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank">
+    <img src="https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
+    <img src="https://img.shields.io/badge/Code-Linux-darkgreen?logo=linux&logoColor=white">
+  </a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Math-Probability%20&%20Statistics-red?logo=mathworks&logoColor=white">
-  <img src="https://img.shields.io/badge/Math-Calculus-orange?logo=mathworks&logoColor=white">
-  <img src="https://img.shields.io/badge/Math-Linear%20Algebra-blue?logo=mathworks&logoColor=white">
-  <img src="https://img.shields.io/badge/Math-Complex%20Analysis-purple?logo=mathworks&logoColor=white">
+  <a href="https://en.wikipedia.org/wiki/Probability" target="_blank">
+    <img src="https://img.shields.io/badge/Math-Probability%20&%20Statistics-red?logo=mathworks&logoColor=white">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Calculus" target="_blank">
+    <img src="https://img.shields.io/badge/Math-Calculus-orange?logo=mathworks&logoColor=white">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Linear_algebra" target="_blank">
+    <img src="https://img.shields.io/badge/Math-Linear%20Algebra-blue?logo=mathworks&logoColor=white">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Complex_analysis" target="_blank">
+    <img src="https://img.shields.io/badge/Math-Complex%20Analysis-purple?logo=mathworks&logoColor=white">
+  </a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/CS-Data%20Structures-blue?logo=databricks&logoColor=white">
-  <img src="https://img.shields.io/badge/CS-Algorithms-red?logo=algolia&logoColor=white">
-  <img src="https://img.shields.io/badge/CS-Operating%20Systems-yellow?logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/CS-Computer%20Networks-purple?logo=cisco&logoColor=white">
-  <img src="https://img.shields.io/badge/CS-Optimisation-green?logo=optimizely&logoColor=white">
+  <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank">
+    <img src="https://img.shields.io/badge/CS-Data%20Structures-blue?logo=databricks&logoColor=white">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Algorithm" target="_blank">
+    <img src="https://img.shields.io/badge/CS-Algorithms-red?logo=algolia&logoColor=white">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Operating_system" target="_blank">
+    <img src="https://img.shields.io/badge/CS-Operating%20Systems-yellow?logo=linux&logoColor=white">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Computer_network" target="_blank">
+    <img src="https://img.shields.io/badge/CS-Computer%20Networks-purple?logo=cisco&logoColor=white">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Mathematical_optimization" target="_blank">
+    <img src="https://img.shields.io/badge/CS-Optimisation-green?logo=optimizely&logoColor=white">
+  </a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/ML-Convolutional%20Neural%20Networks-red?logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/ML-Recurrent%20Neural%20Networks-green?logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/ML-Generative%20Adversarial%20Networks-orange?logo=opencv&logoColor=white">
+  <a href="https://en.wikipedia.org/wiki/Convolutional_neural_network" target="_blank">
+    <img src="https://img.shields.io/badge/ML-Convolutional%20Neural%20Networks-red?logo=tensorflow&logoColor=white">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Recurrent_neural_network" target="_blank">
+    <img src="https://img.shields.io/badge/ML-Recurrent%20Neural%20Networks-green?logo=pytorch&logoColor=white">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Generative_adversarial_network" target="_blank">
+    <img src="https://img.shields.io/badge/ML-Generative%20Adversarial%20Networks-orange?logo=opencv&logoColor=white">
+  </a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/AI-Deep%20Deterministic%20Policy%20Gradient-blue?logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/AI-Large%20Language%20Models-yellow?logo=transformers&logoColor=white">
-  <img src="https://img.shields.io/badge/AI-Quantised%20Low%20Rank%20Adaptions-blue?logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/AI-Self%20Organising%20Maps-green?logo=neuralnetworks&logoColor=white">
+  <a href="https://en.wikipedia.org/wiki/Deep_deterministic_policy_gradient" target="_blank">
+    <img src="https://img.shields.io/badge/AI-Deep%20Deterministic%20Policy%20Gradient-blue?logo=tensorflow&logoColor=white">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Language_model" target="_blank">
+    <img src="https://img.shields.io/badge/AI-Large%20Language%20Models-yellow?logo=transformers&logoColor=white">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Quantization_(signal_processing)#Low-rank_approximation" target="_blank">
+    <img src="https://img.shields.io/badge/AI-Quantised%20Low%20Rank%20Adaptions-blue?logo=pytorch&logoColor=white">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Self-organizing_map" target="_blank">
+    <img src="https://img.shields.io/badge/AI-Self%20Organising%20Maps-green?logo=neuralnetworks&logoColor=white">
+  </a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Tools-Git-orange?logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-Docker-blue?logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-Kubernetes-blue?logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-RESTful%20APIs-green?logo=api&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-Spring%20Boot-brightgreen?logo=spring&logoColor=white">
+  <a href="https://en.wikipedia.org/wiki/Git" target="_blank">
+    <img src="https://img.shields.io/badge/Tools-Git-orange?logo=git&logoColor=white">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Docker_(software)" target="_blank">
+    <img src="https://img.shields.io/badge/Tools-Docker-blue?logo=docker&logoColor=white">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Kubernetes" target="_blank">
+    <img src="https://img.shields.io/badge/Tools-Kubernetes-blue?logo=kubernetes&logoColor=white">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank">
+    <img src="https://img.shields.io/badge/Tools-RESTful%20APIs-green?logo=api&logoColor=white">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Spring_Framework" target="_blank">
+    <img src="https://img.shields.io/badge/Tools-Spring%20Boot-brightgreen?logo=spring&logoColor=white">
+  </a>
 </p>
+
 
 <!-- Repositories -->
 <section style="background-color: #f7f7f7; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
