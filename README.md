@@ -144,9 +144,25 @@
 
 </section>
 
-<!-- GitHub Stats -->
-## 📈 GitHub Stats
-![Rujul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rujuldwivedi&show_icons=true&theme=radical)
+# Rujul Dwivedi's GitHub Profile
 
-## 🌟 Let's Connect
-Feel free to explore my repositories, connect on LinkedIn, or drop me an email. I'm always open to collaboration and learning new things!
+![Profile Views](https://komarev.com/ghpvc/?username=rujuldwivedi&color=brightgreen)
+![Followers](https://img.shields.io/github/followers/rujuldwivedi?label=Followers)
+![Stars](https://img.shields.io/github/stars/rujuldwivedi?label=Stars)
+
+## 🚀 GitHub Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=rujuldwivedi&show_icons=true&theme=radical" alt="Rujul's GitHub Stats" />
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rujuldwivedi&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+## 📫 Connect with Me
+
+- **Email:** [rujul.dwivedi.21033@iitgoa.ac.in](mailto:rujul.dwivedi.21033@iitgoa.ac.in)
+- **LinkedIn:** [Rujul Dwivedi](https://www.linkedin.com/in/rujuldwivedi/)
+- **GitHub:** [Rujul Dwivedi](https://github.com/rujuldwivedi)
+- **Codeforces:** [Rujul Dwivedi](https://codeforces.com/profile/rujuldwivedi)
+- **Leetcode:** [Rujul Dwivedi](https://leetcode.com/u/rujuldwivedi/)
+- **Geeksforgeeks:** [Rujul Dwivedi](https://www.geeksforgeeks.org/user/rujuldwivedi/)
