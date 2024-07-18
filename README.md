@@ -98,7 +98,7 @@
   <h2 style="color: #333; font-size: 24px; margin-bottom: 10px;">📦 Repositories</h2>
     <ul style="list-style-type: none; padding-left: 0; margin-bottom: 15px;">
       <li>
-        <strong><a href="https://github.com/rujuldwivedi/Underwater-Object-Detection" target="_blank" style="color: #007bff; text-decoration: none;">Underwater Object Detection</a>:</strong> Detecting underwater marine life using advanced object detection algorithms and deep learning models.
+        <strong><a href="https://github.com/rujuldwivedi/Underwater-Object-Detection" target="_blank" style="color: #007bff; text-decoration: none;">Underwater Object Detection</a>:</strong> Detecting underwater marine life using object detection algorithms and deep learning models.
       </li>
       <li>
         <strong><a href="https://github.com/rujuldwivedi/Quant-Models" target="_blank" style="color: #007bff; text-decoration: none;">Quant Models</a>:</strong> Implementations of various Quant Finance models like Black-Scholes, Kalman Filter, etc.
