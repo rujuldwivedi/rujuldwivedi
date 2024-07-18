@@ -144,13 +144,11 @@
 
 </section>
 
-# Rujul Dwivedi's GitHub Profile
+## 🚀 GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rujuldwivedi&color=brightgreen)
 ![Followers](https://img.shields.io/github/followers/rujuldwivedi?label=Followers)
 ![Stars](https://img.shields.io/github/stars/rujuldwivedi?label=Stars)
-
-## 🚀 GitHub Stats
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rujuldwivedi&show_icons=true&theme=radical" alt="Rujul's GitHub Stats" />
