@@ -199,9 +199,9 @@
 
 Feel free to reach out and connect with me via the below links! Whether you're interested in machine learning, backend development, or simply want to discuss the latest in cosmology and football, I'd love to hear from you. Let's make something amazing together!
 
-- **Email:** [rujul.dwivedi.21033@iitgoa.ac.in](mailto:rujul.dwivedi.21033@iitgoa.ac.in)
-- **LinkedIn:** [Rujul Dwivedi](https://www.linkedin.com/in/rujuldwivedi/)
-- **GitHub:** [Rujul Dwivedi](https://github.com/rujuldwivedi)
-- **Codeforces:** [Rujul Dwivedi](https://codeforces.com/profile/rujuldwivedi)
-- **Leetcode:** [Rujul Dwivedi](https://leetcode.com/u/rujuldwivedi/)
-- **Geeksforgeeks:** [Rujul Dwivedi](https://www.geeksforgeeks.org/user/rujuldwivedi/)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rujul.dwivedi.21033@iitgoa.ac.in)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rujuldwivedi/)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rujuldwivedi)
+- [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rujuldwivedi)
+- [![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rujuldwivedi/)
+- [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/rujuldwivedi/)
