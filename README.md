@@ -197,4 +197,11 @@
 
 ## 📫 Connect with Me
 
-Feel free to reach out and connect with me! Whether you're interested in machine learning, backend development, or simply want to discuss the latest in cosmology and football, I'd love to hear from you. Let's make something amazing together!
+Feel free to reach out and connect with me via the below links! Whether you're interested in machine learning, backend development, or simply want to discuss the latest in cosmology and football, I'd love to hear from you. Let's make something amazing together!
+
+- **Email:** [rujul.dwivedi.21033@iitgoa.ac.in](mailto:rujul.dwivedi.21033@iitgoa.ac.in)
+- **LinkedIn:** [Rujul Dwivedi](https://www.linkedin.com/in/rujuldwivedi/)
+- **GitHub:** [Rujul Dwivedi](https://github.com/rujuldwivedi)
+- **Codeforces:** [Rujul Dwivedi](https://codeforces.com/profile/rujuldwivedi)
+- **Leetcode:** [Rujul Dwivedi](https://leetcode.com/u/rujuldwivedi/)
+- **Geeksforgeeks:** [Rujul Dwivedi](https://www.geeksforgeeks.org/user/rujuldwivedi/)
