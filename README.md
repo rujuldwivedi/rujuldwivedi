@@ -51,9 +51,6 @@
 <h2>💻 Math-Tech</h2>
 
 <p>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-    <img src="https://img.shields.io/badge/Code-C++-blue?logo=c%2B%2B&logoColor=white">
-  </a>
   <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank">
     <img src="https://img.shields.io/badge/Code-Java-yellow?logo=java&logoColor=white">
   </a>
@@ -125,49 +122,15 @@
   </a>
 </p>
 
-<p>
-  <a href="https://en.wikipedia.org/wiki/Git" target="_blank">
-    <img src="https://img.shields.io/badge/Tools-Git-orange?logo=git&logoColor=white">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Docker_(software)" target="_blank">
-    <img src="https://img.shields.io/badge/Tools-Docker-blue?logo=docker&logoColor=white">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Kubernetes" target="_blank">
-    <img src="https://img.shields.io/badge/Tools-Kubernetes-blue?logo=kubernetes&logoColor=white">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank">
-    <img src="https://img.shields.io/badge/Tools-RESTful%20APIs-green?logo=api&logoColor=white">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Spring_Framework" target="_blank">
-    <img src="https://img.shields.io/badge/Tools-Spring%20Boot-brightgreen?logo=spring&logoColor=white">
-  </a>
-</p>
-
-
-<!-- Repositories -->
+<!-- Important Repositories -->
 <section style="background-color: #f7f7f7; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <h2 style="color: #333; font-size: 24px; margin-bottom: 10px;">📦 Repositories</h2>
+  <h2 style="color: #333; font-size: 24px; margin-bottom: 10px;">📦 Major Repositories</h2>
     <ul style="list-style-type: none; padding-left: 0; margin-bottom: 15px;">
       <li>
         <strong><a href="https://github.com/rujuldwivedi/Underwater-Object-Detection" target="_blank" style="color: #007bff; text-decoration: none;">Underwater Object Detection</a>:</strong> Detecting underwater marine life using object detection algorithms and deep learning models.
       </li>
       <li>
-        <strong><a href="https://github.com/rujuldwivedi/Quant-Models" target="_blank" style="color: #007bff; text-decoration: none;">Quant Models</a>:</strong> Implementations of various Quant Finance models like Black-Scholes, Kalman Filter, etc.
-      </li>
-      <li>
-        <strong><a href="https://github.com/rujuldwivedi/Artificially-Intelligent-Models" target="_blank" style="color: #007bff; text-decoration: none;">Artificially Intelligent Models</a>:</strong> Various Artificial Intelligence models and techniques.
-      </li>
-      <li>
-        <strong><a href="https://github.com/rujuldwivedi/Lab-Assignments/tree/main/MLDLProject" target="_blank" style="color: #007bff; text-decoration: none;">Real-Time Object Detection</a>:</strong> Detects objects using YOLO.
-      </li>
-      <li>
         <strong><a href="https://github.com/rujuldwivedi/Dog-Vision" target="_blank" style="color: #007bff; text-decoration: none;">Dog Vision</a>:</strong> Classifying photos of dogs into different breeds using TensorFlow.
-      </li>
-      <li>
-        <strong><a href="https://github.com/rujuldwivedi/Bulldozer-Price-Regression" target="_blank" style="color: #007bff; text-decoration: none;">Bulldozer Price Regression</a>:</strong> Predicting bulldozer sale prices using regression.
-      </li>
-      <li>
-        <strong><a href="https://github.com/rujuldwivedi/Heart-Disease-Classification" target="_blank" style="color: #007bff; text-decoration: none;">Heart Disease Classification</a>:</strong> Predicting heart disease using classification techniques.
       </li>
       <li>
         <strong><a href="https://github.com/rujuldwivedi/Football-Data" target="_blank" style="color: #007bff; text-decoration: none;">Football Data</a>:</strong> Analyzing football statistics for Real Madrid.
@@ -179,16 +142,7 @@
         <strong><a href="https://github.com/rujuldwivedi/Java-DSA" target="_blank" style="color: #007bff; text-decoration: none;">Java DSA</a>:</strong> Analyzing algorithms using different data structures in Java.
       </li>
       <li>
-        <strong><a href="https://github.com/rujuldwivedi/Snake-Java" target="_blank" style="color: #007bff; text-decoration: none;">Snake Java</a>:</strong> Classic Snake game implemented in Java.
-      </li>
-      <li>
         <strong><a href="https://github.com/rujuldwivedi/Grade-Submission" target="_blank" style="color: #007bff; text-decoration: none;">Grade Submission</a>:</strong> Managing student grades using SpringBoot.
-      </li>
-      <li>
-        <strong><a href="https://github.com/rujuldwivedi/Global-Superstore" target="_blank" style="color: #007bff; text-decoration: none;">Global Superstore</a>:</strong> Managing operations of a global retail superstore with SpringBoot.
-      </li>
-      <li>
-        <strong><a href="https://github.com/rujuldwivedi/Employee-Management-System" target="_blank" style="color: #007bff; text-decoration: none;">Employee Management System</a>:</strong> Console-based employee management system in Java.
       </li>
     </ul>
   </div>
