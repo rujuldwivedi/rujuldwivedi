@@ -51,6 +51,10 @@
 <h2>💻 Math-Tech</h2>
 
 <p>
+
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+    <img src="https://img.shields.io/badge/Code-C++-red?logo=cpp&logoColor=white">
+  </a>
   <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank">
     <img src="https://img.shields.io/badge/Code-Java-yellow?logo=java&logoColor=white">
   </a>
