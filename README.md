@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/102957426?s=400&u=9816a114c0015120e916d9b5500de1d69e5b9633&v=4" width="150" alt="Profile Picture">
+  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="150" alt="Profile Picture">
   <h1>Rujul Dwivedi</h1>
   <p><i>Tech Enthusiast | Machine Learning Explorer | Aspiring Quant</i></p>
   <a href="https://linkedin.com/in/rujuldwivedi"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://stackoverflow.com/users/rujuldwivedi"><img src="https://img.shields.io/badge/-Stack%20Overflow-F58025?style=flat-square&logo=stack-overflow&logoColor=white"></a>
-  <a href="mailto:rujul@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:rujul.dwivedi.21033@iitgoa.ac.in"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </div>
 
 ---
@@ -14,26 +14,35 @@
 Hey there! I’m Rujul, a dynamic problem-solver at the intersection of **software development**, **machine learning**, and **quantitative finance**. My passion lies in creating efficient solutions that are as elegant as they are impactful.
 
 ### Quick Highlights:
-- **Coding Maverick**: Crafting powerful solutions with **Java**, **Python**, and other technologies.
-- **Data Wizardry**: Designing predictive models to solve real-world problems.
-- **Infinite Curiosity**: Exploring mathematics, cosmology, and literature for insights beyond the ordinary.
+- **Software Engineer Intern**: Developed high-performance data pipelines and visualizations for real-world applications.
+- **Machine Learning Innovator**: Devised cutting-edge models for finance and underwater object detection.
+- **Quantitative Thinker**: Analyzed market trends using econometrics and time-series modeling.
 - **Team Player**: On the field as a midfielder, cheering for **Real Madrid** and the **Indian Cricket Team**.
 
 ---
 
 ## 🧑‍💻 Experience
 
-- **Machine Learning Projects**: Developed a PINN architecture for option pricing and trained models on large datasets for actionable insights.
-- **Software Development**: Contributed to projects like **PagePal** and **HydroVision**, emphasizing scalability and robustness.
-- **Quantitative Finance**: Explored market analysis through econometrics and time-series modeling.
+### Software Engineer Intern | Indian Urban Data Exchange
+*Dec 2024 – Present*
+- Designed a robust data pipeline using **Apache Flink**, **Kafka**, and **RabbitMQ**, ensuring 99.8% uptime.
+- Developed backend systems for efficient data lake management, optimizing data storage by 15%.
+- Created interactive visualization frameworks using **ECharts** and **Kepler.gl**, boosting user engagement by 20%.
+
+### Data Analyst Intern | Discourse Consulting
+*May 2024 – Jul 2024*
+- Automated data pipelines for electoral campaigns, improving accuracy and speed by 8%.
+- Conducted sentiment analysis using **NLP**, enhancing public engagement insights by 10%.
+- Partnered with teams to optimize campaign strategies using predictive models.
 
 ---
 
 ## 🎓 Education
 
-- **Bachelor of Technology in Mathematics and Computing**  
-  *Indian Institute of Technology (IIT) Goa*  
-  *Class of 2024*
+| **Qualification**                           | **Institute**                              | **Year**         |
+|---------------------------------------------|--------------------------------------------|------------------|
+| B.Tech, Mathematics and Computing           | Indian Institute of Technology, Goa        | 2021 – Present   |
+| Class 12, ISC                               | City Montessori School, Lucknow            | 2007 – 2021      |
 
 ---
 
@@ -47,17 +56,12 @@ Hey there! I’m Rujul, a dynamic problem-solver at the intersection of **softwa
 
 ## 💼 Projects
 
-### 1. **HydroVision**
-A lightweight underwater object detection framework combining YOLO and ViT algorithms.
-- **Tech Stack**: Python, PyTorch, TensorFlow
-- **Outcome**: Enhanced accuracy with low computational requirements.
+### 1. **Production-Level eCommerce App**
+Developed a full-stack eCommerce platform with seamless front-end and back-end communication.
+- **Tech Stack**: Spring Boot, React, PostgreSQL, AWS
+- **Outcome**: Achieved 99.9% uptime with secure, role-based access control.
 
-### 2. **PagePal**
-A social networking app for book lovers to connect and share insights.
-- **Tech Stack**: React, Spring Boot, MySQL
-- **Outcome**: Scalable platform with advanced authentication.
-
-### 3. **Deep Learning for Option Pricing**
+### 2. **Deep Learning for Option Pricing**
 Devised PINN and DGM architectures for pricing European options.
 - **Tech Stack**: Python, NumPy, Matplotlib
 - **Outcome**: 20% improvement in accuracy over traditional FDM.
