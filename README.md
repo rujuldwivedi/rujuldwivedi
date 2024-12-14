@@ -66,23 +66,6 @@ Devised PINN and DGM architectures for pricing European options.
 ![Kafka](https://img.shields.io/badge/-Kafka-%23231F20?style=flat-square&logo=apache-kafka&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/-Power%20BI-%23F2C811?style=flat-square&logo=powerbi&logoColor=black)  
 
-### Computer Science
-![System Design](https://img.shields.io/badge/-System%20Design-%23000000?style=flat-square&logoColor=white)  
-![Operating Systems](https://img.shields.io/badge/-Operating%20Systems-%234D4D4D?style=flat-square&logoColor=white)  
-![Computer Networks](https://img.shields.io/badge/-Computer%20Networks-%230E76A8?style=flat-square&logoColor=white)  
-![DBMS](https://img.shields.io/badge/-DBMS-%23316192?style=flat-square&logoColor=white)  
-
-### Mathematics
-![Probability & Statistics](https://img.shields.io/badge/-Probability%20%26%20Statistics-%23008080?style=flat-square&logoColor=white)  
-![Optimization Theory](https://img.shields.io/badge/-Optimization%20Theory-%23013243?style=flat-square&logoColor=white)  
-![Calculus](https://img.shields.io/badge/-Calculus-%23150458?style=flat-square&logoColor=white)  
-![Algebra](https://img.shields.io/badge/-Algebra-%23FF6F00?style=flat-square&logoColor=white)  
-
-### Finance
-![Quant Finance](https://img.shields.io/badge/-Quant%20Finance-%23000000?style=flat-square&logoColor=white)  
-![Option Pricing](https://img.shields.io/badge/-Option%20Pricing-%23F7931E?style=flat-square&logoColor=white)  
-![Time Series Econometrics](https://img.shields.io/badge/-Time%20Series%20Econometrics-%230C55A5?style=flat-square&logoColor=white)  
-
 ---
 
 ## 📜 Certifications
