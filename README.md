@@ -11,19 +11,17 @@
 
 ## 👋 About Me
 
-Hey there! I’m Rujul, a dynamic problem-solver at the intersection of **software development**, **machine learning**, and **quantitative finance**. My passion lies in creating efficient solutions that are as elegant as they are impactful.
+Hey there! I’m Rujul, a tech enthusiast focused on software development, machine learning and quantitative finance, engrossed in coding dynamic Java solutions and building data-driven models for real-world applications.
 
-### Quick Highlights:
-- **Software Engineer Intern**: Developed high-performance data pipelines and visualizations for real-world applications.
-- **Machine Learning Innovator**: Devised cutting-edge models for finance and underwater object detection.
-- **Quantitative Thinker**: Analyzed market trends using econometrics and time-series modeling.
-- **Team Player**: On the field as a midfielder, cheering for **Real Madrid** and the **Indian Cricket Team**.
+### ⭐ Extras:
+- I find exuberance in the complexities of mathematics, cosmology and the art of literature as they offer endless opportunities for discovery and understanding.
+- I'm also an accomplished part-time guitarist, chess player and midfielder who enjoys cheering for Real Madrid and the Indian Cricket Team.
 
 ---
 
 ## 🧑‍💻 Experience
 
-### Software Engineer Intern | Indian Urban Data Exchange
+### Software Engineer Intern | Indian Urban Data Exchange (IUDX)
 *Dec 2024 – Present*
 - Designed a robust data pipeline using **Apache Flink**, **Kafka**, and **RabbitMQ**, ensuring 99.8% uptime.
 - Developed backend systems for efficient data lake management, optimizing data storage by 15%.
