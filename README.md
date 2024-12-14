@@ -12,26 +12,6 @@
 
 Hey there! I’m Rujul, a tech enthusiast focused on **software development**, **machine learning** and **quantitative finance**, engrossed in coding dynamic **Java** solutions and building **data-driven** models for real-world applications.
 
-### ⭐ Extras:
-- I find exuberance in the complexities of *mathematics*🧠, *cosmology*🔭 and the art of *literature*📖 as they offer endless opportunities for discovery and understanding.
-- I'm also an accomplished part-time *guitarist*🎸, *chess player*♟️ and *midfielder*⚽ who enjoys cheering for *Real Madrid*🇪🇸 and the *Indian Cricket Team*🇮🇳 .
-
----
-
-## 🧑‍💻 Experience
-
-### Software Engineer Intern | Indian Urban Data Exchange (IUDX)
-*Dec 2024 – Present*
-- Designed a robust data pipeline using **Apache Flink**, **Kafka**, and **RabbitMQ**, ensuring 99.8% uptime.
-- Developed backend systems for efficient data lake management, optimizing data storage by 15%.
-- Created interactive visualization frameworks using **ECharts** and **Kepler.gl**, boosting user engagement by 20%.
-
-### Data Analyst Intern | Discourse Consulting
-*May 2024 – Jul 2024*
-- Automated data pipelines for electoral campaigns, improving accuracy and speed by 8%.
-- Conducted sentiment analysis using **NLP**, enhancing public engagement insights by 10%.
-- Partnered with teams to optimize campaign strategies using predictive models.
-
 ---
 
 ## 🎓 Education
@@ -42,12 +22,13 @@ Hey there! I’m Rujul, a tech enthusiast focused on **software development**, *
 | Class 12, ISC                               | City Montessori School, Lucknow            | 2007 – 2021      |
 
 ---
+## 🧑‍💻 Experience
 
-## 📜 Certifications
-
-- **AWS Certified Cloud Practitioner**
-- **TensorFlow for Deep Learning**
-- **Advanced Econometrics**
+### Data Analyst Intern | Discourse Consulting
+*May 2024 – Jul 2024*
+- Automated data pipelines for electoral campaigns, improving accuracy and speed by 8%.
+- Conducted sentiment analysis using **NLP**, enhancing public engagement insights by 10%.
+- Partnered with teams to optimize campaign strategies using predictive models.
 
 ---
 
@@ -80,7 +61,6 @@ Devised PINN and DGM architectures for pricing European options.
 
 ### Cloud & Tools:
 ![AWS](https://img.shields.io/badge/-AWS-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-%23F05033?style=flat-square&logo=git&logoColor=white)
 
 ---
