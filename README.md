@@ -19,16 +19,16 @@ Hey there! I’m Rujul, a dynamic problem-solver at the intersection of **softwa
 | **Qualification**                           | **Institute**                              | **Year**         |
 |---------------------------------------------|--------------------------------------------|------------------|
 | B.Tech, Mathematics and Computing           | Indian Institute of Technology, Goa        | 2021 – Present   |
-| Class 12, ISC                               | City Montessori School, Lucknow            | 2007 – 2021      |
+| Class 12 ISC, PCM + Comp.                   | City Montessori School, Lucknow            | 2007 – 2021      |
 
 ---
 ## 🧑‍💻 Experience
 
 ### Data Analyst Intern | Discourse Consulting
 *May 2024 – Jul 2024*
-- Automated data pipelines for electoral campaigns, improving accuracy and speed by 8%.
-- Conducted sentiment analysis using **NLP**, enhancing public engagement insights by 10%.
-- Partnered with teams to optimize campaign strategies using predictive models.
+- Automated **data pipelines** for electoral campaigns, improving accuracy and speed by **8%**.
+- Conducted sentiment analysis using **NLP**, enhancing public engagement insights by **10%**.
+- Partnered with teams to optimize campaign strategies using **predictive models**.
 
 ---
 
