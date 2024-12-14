@@ -10,11 +10,11 @@
 
 ## 👋 About Me
 
-Hey there! I’m Rujul, a tech enthusiast focused on software development, machine learning and quantitative finance, engrossed in coding dynamic Java solutions and building data-driven models for real-world applications.
+Hey there! I’m Rujul, a tech enthusiast focused on **software development**, **machine learning** and **quantitative finance**, engrossed in coding dynamic **Java** solutions and building **data-driven** models for real-world applications.
 
 ### ⭐ Extras:
-- I find exuberance in the complexities of mathematics, cosmology and the art of literature as they offer endless opportunities for discovery and understanding.
-- I'm also an accomplished part-time guitarist, chess player and midfielder who enjoys cheering for Real Madrid and the Indian Cricket Team.
+- I find exuberance in the complexities of *mathematics*🧠, *cosmology*🔭 and the art of *literature*📖 as they offer endless opportunities for discovery and understanding.
+- I'm also an accomplished part-time *guitarist*🎸, *chess player*♟️ and *midfielder*⚽ who enjoys cheering for *Real Madrid*🇪🇸 and the *Indian Cricket Team*🇮🇳 .
 
 ---
 
