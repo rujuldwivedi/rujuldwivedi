@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://avatars.githubusercontent.com/u/12345678?v=4](https://avatars.githubusercontent.com/u/102957426?s=400&u=9816a114c0015120e916d9b5500de1d69e5b9633&v=4)" width="150" alt="Profile Picture">
+  <img src="https://avatars.githubusercontent.com/u/102957426?s=400&u=9816a114c0015120e916d9b5500de1d69e5b9633&v=4" width="150" alt="Profile Picture">
   <h1>Rujul Dwivedi</h1>
   <p><i>Tech Enthusiast | Machine Learning Explorer | Aspiring Quant</i></p>
   <a href="https://linkedin.com/in/rujuldwivedi"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
