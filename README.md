@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/102957426?v=4" width="150" alt="Profile Picture">
   <h1>Rujul Dwivedi</h1>
-  <p><i>Tech Enthusiast | Machine Learning Explorer | Aspiring Quant</i></p>
+  <p><i>Java Developer | Machine Learning Explorer | Aspiring Quant</i></p>
   <a href="https://linkedin.com/in/rujuldwivedi"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:rujuldwivedi@icloud.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </div>
