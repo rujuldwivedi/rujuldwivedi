@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-Hey there! I’m Rujul, a tech enthusiast focused on **software development**, **machine learning** and **quantitative finance**, engrossed in coding dynamic **Java** solutions and building **data-driven** models for real-world applications.
+Hey there! I’m Rujul, a dynamic problem-solver at the intersection of **software development**, **machine learning**, and **quantitative finance**. My passion lies in creating efficient solutions that are as elegant as they are impactful.
 
 ---
 
@@ -34,12 +34,12 @@ Hey there! I’m Rujul, a tech enthusiast focused on **software development**, *
 
 ## 💼 Projects
 
-### 1. **[Production-Level eCommerce App]()**
+### 1. **[Production-Level eCommerce App](https://www.github.com/rujuldwivedi/Full-Stack-eCommerce-App)**
 Developed a full-stack eCommerce platform with seamless front-end and back-end communication.
 - **Tech Stack**: Spring Boot, React, PostgreSQL, AWS
 - **Outcome**: Achieved 99.9% uptime with secure, role-based access control.
 
-### 2. **Deep Learning for Option Pricing**
+### 2. **[Deep Learning for Option Pricing](https://www.github.com/rujuldwivedi/Deep-Learning-Option-Pricing)**
 Devised PINN and DGM architectures for pricing European options.
 - **Tech Stack**: Python, NumPy, Matplotlib
 - **Outcome**: 20% improvement in accuracy over traditional FDM.
@@ -48,20 +48,51 @@ Devised PINN and DGM architectures for pricing European options.
 
 ## 🛠️ Skills
 
-### Programming Languages:
-![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+## Programming Languages
+![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black)  
+![Bash](https://img.shields.io/badge/-Bash-%23121011?style=flat-square&logo=gnu-bash&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-%2344788F?style=flat-square&logo=postgresql&logoColor=white)  
+![LaTeX](https://img.shields.io/badge/-LaTeX-%23008080?style=flat-square&logo=latex&logoColor=white)  
 
-### Machine Learning & Data Science:
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-%23150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-%23013243?style=flat-square&logo=numpy&logoColor=white)
+### Tech Stack
+![Git](https://img.shields.io/badge/-Git-%23F05033?style=flat-square&logo=git&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=flat-square&logo=springboot&logoColor=white)  
+![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=black)  
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-%2338B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
+![Kafka](https://img.shields.io/badge/-Kafka-%23231F20?style=flat-square&logo=apache-kafka&logoColor=white)  
+![Power BI](https://img.shields.io/badge/-Power%20BI-%23F2C811?style=flat-square&logo=powerbi&logoColor=black)  
 
-### Cloud & Tools:
-![AWS](https://img.shields.io/badge/-AWS-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-%23F05033?style=flat-square&logo=git&logoColor=white)
+### Computer Science
+![System Design](https://img.shields.io/badge/-System%20Design-%23000000?style=flat-square&logoColor=white)  
+![Operating Systems](https://img.shields.io/badge/-Operating%20Systems-%234D4D4D?style=flat-square&logoColor=white)  
+![Computer Networks](https://img.shields.io/badge/-Computer%20Networks-%230E76A8?style=flat-square&logoColor=white)  
+![DBMS](https://img.shields.io/badge/-DBMS-%23316192?style=flat-square&logoColor=white)  
+
+### Mathematics
+![Probability & Statistics](https://img.shields.io/badge/-Probability%20%26%20Statistics-%23008080?style=flat-square&logoColor=white)  
+![Optimization Theory](https://img.shields.io/badge/-Optimization%20Theory-%23013243?style=flat-square&logoColor=white)  
+![Calculus](https://img.shields.io/badge/-Calculus-%23150458?style=flat-square&logoColor=white)  
+![Algebra](https://img.shields.io/badge/-Algebra-%23FF6F00?style=flat-square&logoColor=white)  
+
+### Finance
+![Quant Finance](https://img.shields.io/badge/-Quant%20Finance-%23000000?style=flat-square&logoColor=white)  
+![Option Pricing](https://img.shields.io/badge/-Option%20Pricing-%23F7931E?style=flat-square&logoColor=white)  
+![Time Series Econometrics](https://img.shields.io/badge/-Time%20Series%20Econometrics-%230C55A5?style=flat-square&logoColor=white)  
+
+---
+
+## 📜 Certifications
+
+- **[Java Development](https://www.udemy.com/certificate/UC-87473223-3e96-4430-8657-f5265a91e951/)**
+- **[Full Stack Development]()**
+- **[Machine Learning](https://www.udemy.com/certificate/UC-fac1778d-f4fb-454a-81bb-17fd40a52f5f/)**
+- **[Artificial Intelligence](https://www.udemy.com/certificate/UC-502e1a54-b560-47a8-bf2c-0b703225a8b8/)**
+- **[Computer Networks](https://coursera.org/share/864326ea6f39acbe7db757a69cb6d979)**
+- **[Operating Systems](https://coursera.org/share/091d5d4a886b73da2779e05a162b0818)**
 
 ---
 
