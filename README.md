@@ -60,9 +60,9 @@ Devised PINN and DGM architectures for pricing European options.
 
 ## 📜 Certifications
 
-- **[Java Development](https://www.udemy.com/certificate/UC-87473223-3e96-4430-8657-f5265a91e951/)** • **[Full Stack Development]()**
-- **[Machine Learning](https://www.udemy.com/certificate/UC-fac1778d-f4fb-454a-81bb-17fd40a52f5f/)** • **[Artificial Intelligence](https://www.udemy.com/certificate/UC-502e1a54-b560-47a8-bf2c-0b703225a8b8/)**
-- **[Computer Networks](https://coursera.org/share/864326ea6f39acbe7db757a69cb6d979)** • **[Operating Systems](https://coursera.org/share/091d5d4a886b73da2779e05a162b0818)**
+• **[Java Development](https://www.udemy.com/certificate/UC-87473223-3e96-4430-8657-f5265a91e951/)** • **[Full Stack Development]()**  
+• **[Machine Learning](https://www.udemy.com/certificate/UC-fac1778d-f4fb-454a-81bb-17fd40a52f5f/)** • **[Artificial Intelligence](https://www.udemy.com/certificate/UC-502e1a54-b560-47a8-bf2c-0b703225a8b8/)**  
+• **[Computer Networks](https://coursera.org/share/864326ea6f39acbe7db757a69cb6d979)** • **[Operating Systems](https://coursera.org/share/091d5d4a886b73da2779e05a162b0818)**
 
 ---
 
