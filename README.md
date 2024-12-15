@@ -72,7 +72,7 @@ Devised PINN and DGM architectures for pricing European options.
   <img src="https://github-readme-stats.vercel.app/api?username=rujuldwivedi&theme=github_dark&show_icons=true&hide_border=true" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rujuldwivedi&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rujuldwivedi&stheme=github-dark-blue&hide_border=true" alt="Languages">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rujuldwivedi&stheme=github-dark-blue&hide_border=true" alt="Repositories">
+  <img src="https://github-contributor-stats.vercel.app/api/top-langs/?username=rujuldwivedi&stheme=github-dark-blue&hide_border=true" alt="Repositories">
 </div>
 
 ---
