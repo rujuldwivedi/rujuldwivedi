@@ -4,6 +4,13 @@
   <p><i>Java Developer | ML/AI Explorer | Aspiring Quant</i></p>
   <a href="https://linkedin.com/in/rujuldwivedi"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:rujuldwivedi@icloud.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/rujuldwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rujuldwivedi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rujuldwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rujuldwivedi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/rujuldwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rujuldwivedi" height="30" width="40" /></a>
+<a href="https://instagram.com/rujuldwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rujuldwivedi" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/rujuldwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rujuldwivedi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rujuldwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rujuldwivedi" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rujuldwivedi/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rujuldwivedi/profile" height="30" width="40" /></a>
 </div>
 
 ---
