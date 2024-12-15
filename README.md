@@ -85,7 +85,7 @@ Devised PINN and DGM architectures for pricing European options.
 
 ## ✍️ Dev Quote
 
-> "Simplicity is the soul of efficiency." - Austin Freeman
+> "I could use a little social interaction.” — The Grinch
 
 ---
 
