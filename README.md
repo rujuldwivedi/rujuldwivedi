@@ -13,7 +13,7 @@
 
 ## 👋 About Me
 
-Hey there! I’m Rujul, a dynamic problem-solver at the intersection of **software development**, **machine learning**, and **quantitative finance**.
+Hey there! I’m a dynamic problem-solver at the intersection of **software development**, **machine learning**, and **quantitative finance**.
 
 ---
 
