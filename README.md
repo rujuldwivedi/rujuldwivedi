@@ -29,9 +29,9 @@ Hey there! I’m a dynamic problem-solver at the intersection of **software deve
 
 ### Software Engineer | Intern @ Indian Urban Data Exchange (IUDX)
 *Jan 2025 – Present*
-- Designing a robust data pipeline using *Apache Flink*, *Kafka*, and *RabbitMQ*.
+- Designing a robust data pipeline using **Apache Flink**, **Kafka**, and **RabbitMQ**.
 - Developing backend systems for efficient data lake management.
-- Creating interactive visualization frameworks using *ECharts* and *Kepler.gl*.
+- Creating interactive visualization frameworks using **ECharts** and **Kepler.gl**.
 
 ### Data Analyst | Intern @ Discourse Consulting
 *May 2024 – Jul 2024*
