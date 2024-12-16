@@ -22,18 +22,18 @@ Hey there! I’m a dynamic problem-solver at the intersection of **software deve
 | **Qualification**                           | **Institute**                              | **Year**         |
 |---------------------------------------------|--------------------------------------------|------------------|
 | B.Tech, Mathematics and Computing           | [Indian Institute of Technology, Goa](https://iitgoa.ac.in/)        | 2021 – Present   |
-| Class 12 ISC, PCM + Comp.                   | City Montessori School, Lucknow            | 2007 – 2021      |
+| Class 12 ISC, PCM + Comp.                   | [City Montessori School, Lucknow[(https://cmseducation.org/)            | 2007 – 2021      |
 
 ---
 ## 🧑‍💻 Experience
 
-### Software Engineer | Intern @ Indian Urban Data Exchange (IUDX)
+### Software Engineer | Intern @ [Indian Urban Data Exchange (IUDX)](https://iudx.org.in/)
 *Jan 2025 – Present*
 - Designing a robust data pipeline using **Apache Flink**, **Kafka**, and **RabbitMQ**.
 - Developing backend systems for efficient data lake management.
 - Creating interactive visualization frameworks using **ECharts** and **Kepler.gl**.
 
-### Data Analyst | Intern @ Discourse Consulting
+### Data Analyst | Intern @ [Discourse Consulting](https://discourseconsulting.com/)
 *May 2024 – Jul 2024*
 - Automated **data pipelines** for electoral campaigns, improving accuracy and speed by **8%**.
 - Conducted sentiment analysis using **NLP**, enhancing public engagement insights by **10%**.
