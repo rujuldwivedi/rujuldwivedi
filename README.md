@@ -27,7 +27,13 @@ Hey there! I’m a dynamic problem-solver at the intersection of **software deve
 ---
 ## 🧑‍💻 Experience
 
-### Data Analyst Intern | Discourse Consulting
+### Software Engineer | Intern @ Indian Urban Data Exchange (IUDX)
+*Jan 2025 – Present*
+- Designing a robust data pipeline using *Apache Flink*, *Kafka*, and *RabbitMQ*.
+- Developing backend systems for efficient data lake management.
+- Creating interactive visualization frameworks using *ECharts* and *Kepler.gl*.
+
+### Data Analyst | Intern @ Discourse Consulting
 *May 2024 – Jul 2024*
 - Automated **data pipelines** for electoral campaigns, improving accuracy and speed by **8%**.
 - Conducted sentiment analysis using **NLP**, enhancing public engagement insights by **10%**.
