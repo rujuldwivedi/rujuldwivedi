@@ -22,7 +22,7 @@ Hey there! I’m a dynamic problem-solver at the intersection of **software deve
 | **Qualification**                           | **Institute**                              | **Year**         |
 |---------------------------------------------|--------------------------------------------|------------------|
 | B.Tech, Mathematics and Computing           | [Indian Institute of Technology, Goa](https://iitgoa.ac.in/)        | 2021 – Present   |
-| Class 12 ISC, PCM + Comp.                   | [City Montessori School, Lucknow](https://cmseducation.org/)            | 2007 – 2021      |
+| Class 12 ISC, PCM + Computer Science        | [City Montessori School, Lucknow](https://cmseducation.org/)            | 2007 – 2021      |
 
 ---
 ## 🧑‍💻 Experience
