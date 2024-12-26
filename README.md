@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/102957426?v=4" width="150" alt="Profile Picture">  
+  
   <h><a href="https://linkedin.com/in/rujuldwivedi">Rujul Dwivedi</a></h>
   
 
