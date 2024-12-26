@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/102957426?v=4" width="150" alt="Profile Picture">  
-  <h><a href="https://linkedin.com/in/rujuldwivedi">Rujul Dwivedi</a><\h>
+  <h><a href="https://linkedin.com/in/rujuldwivedi">Rujul Dwivedi</a></h>
   
 
 <!-- <a href="https://codeforces.com/profile/rujuldwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rujuldwivedi" height="30" width="40" /></a>
