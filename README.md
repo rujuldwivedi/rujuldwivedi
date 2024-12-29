@@ -36,8 +36,8 @@ Hey there! I’m a dynamic problem-solver at the intersection of **software deve
 - Creating interactive visualization frameworks using **ECharts** and **Kepler.gl**.
 --->
 
-### Software Engineer | Intern @ [Discourse Consulting](https://discourseconsulting.com/)
-*May 2024 – Jul 2024*
+### Data Analyt | Intern @ [Discourse Consulting](https://discourseconsulting.com/)
+*Jun 2024 – Jul 2024*
 - Automated **data pipelines** for electoral campaigns, improving accuracy and speed by **8%**.
 - Conducted sentiment analysis using **NLP**, enhancing public engagement insights by **10%**.
 - Partnered with teams to optimize campaign strategies using **predictive models**.
