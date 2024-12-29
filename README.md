@@ -62,11 +62,12 @@ Devised PINN and DGM architectures for pricing European options.
 
 ### Languages
 ![C++](https://img.shields.io/badge/-C%2B%2B-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/-Bash-%23121011?style=flat-square&logo=gnu-bash&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-%2344788F?style=flat-square&logo=postgresql&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-%23008080?style=flat-square&logo=latex&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/-Bash-%23121011?style=flat-square&logo=gnu-bash&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-SQL-%2344788F?style=flat-square&logo=postgresql&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-%23008080?style=flat-square&logo=latex&logoColor=white)  
 
 ### Tech Stack
 ![Git](https://img.shields.io/badge/-Git-%23F05033?style=flat-square&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=flat-square&logo=springboot&logoColor=white) 
-![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=black)  ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-%2338B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-%23231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-%23F2C811?style=flat-square&logo=powerbi&logoColor=black)   
+![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-%2338B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-%23231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-%23F2C811?style=flat-square&logo=powerbi&logoColor=black)   
 
 ---
 
