@@ -3,8 +3,8 @@
   
   <h><a>Rujul Dwivedi</a></h>
 
-<a href="https://www.linkedin.com/in/rujuldwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rujuldwivedi" height="30" width="40" /></a>
 <a href="mailto:rujuldwivedi@icloud.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="rujuldwivedi@icloud.com" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rujuldwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rujuldwivedi" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rujuldwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rujuldwivedi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rujuldwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rujuldwivedi" height="30" width="40" /></a>
 
