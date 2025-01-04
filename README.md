@@ -4,12 +4,16 @@
   <h><a>Rujul Dwivedi</a></h>
 
 <a href="https://www.linkedin.com/in/rujuldwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rujuldwivedi" height="30" width="40" /></a>
-<a href="https://twitter.com/rujuldwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rujuldwivedi" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rujuldwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rujuldwivedi" height="30" width="40" /></a>
-
 <a href="mailto:rujuldwivedi@icloud.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="rujuldwivedi@icloud.com" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rujuldwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rujuldwivedi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rujuldwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rujuldwivedi" height="30" width="40" /></a>  
+<a href="https://www.leetcode.com/rujuldwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rujuldwivedi" height="30" width="40" /></a>
+
+<a href="https://wa.me/+919695133900" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="40" /></a>
+<a href="https://twitter.com/rujuldwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rujuldwivedi" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rujuldwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rujuldwivedi" height="30" width="40" /></a>
+<a href="https://music.apple.com/profile/rujuldwivedi" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/871/871799.png" alt="Apple Music" height="30" width="40" /></a>
+
+
 
 <p><i>Java Developer | ML/AI Explorer | Aspiring Quant</i></p>
 </div>
