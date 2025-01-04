@@ -28,19 +28,14 @@ Hey there! I’m a dynamic problem-solver at the intersection of **software deve
 ---
 ## 🧑‍💻 Experience
 
-<!---
-### Software Engineer | Intern @ [Indian Urban Data Exchange (IUDX)](https://iudx.org.in/)
+### Analyst | Intern @ [Latentview Analytics](https://www.latentview.com/)
 *Jan 2025 – Present*
-- Designing a robust data pipeline using **Apache Flink**, **Kafka**, and **RabbitMQ**.
-- Developing backend systems for efficient data lake management.
-- Creating interactive visualization frameworks using **ECharts** and **Kepler.gl**.
---->
+- Working with GenAI and Prompt Engineering along with a Frontend design.
 
 ### Data Analyt | Intern @ [Discourse Consulting](https://discourseconsulting.com/)
 *Jun 2024 – Jul 2024*
 - Automated **data pipelines** for electoral campaigns, improving accuracy and speed by **8%**.
 - Conducted sentiment analysis using **NLP**, enhancing public engagement insights by **10%**.
-- Partnered with teams to optimize campaign strategies using **predictive models**.
 
 ---
 
