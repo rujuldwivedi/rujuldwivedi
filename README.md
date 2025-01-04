@@ -11,7 +11,7 @@
 <a href="https://wa.me/+919695133900" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="40" /></a>
 <a href="https://twitter.com/rujuldwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rujuldwivedi" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rujuldwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rujuldwivedi" height="30" width="40" /></a>
-<a href="https://music.apple.com/profile/rujuldwivedi" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/871/871799.png" alt="Apple Music" height="30" width="40" /></a>
+<a href="https://music.apple.com/profile/rujuldwivedi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Apple_Music_icon.svg" alt="Apple Music" height="30" width="40" /></a>
 
 
 
