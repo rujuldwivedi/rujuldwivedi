@@ -3,7 +3,10 @@
   
   <h><a>Rujul Dwivedi</a></h>
 
-<a href="mailto:rujuldwivedi@icloud.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="rujuldwivedi@icloud.com" height="30" width="40" /></a>
+<a href="mailto:rujuldwivedi@icloud.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="rujuldwivedi@icloud.com" height="30" width="40" /></a>
+<a href="https://wa.me/9695133900" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="40" /></a>
+
+<a href="https://music.apple.com/profile/rujuldwivedi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Apple_Music_logo.svg" alt="Apple Music" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rujuldwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rujuldwivedi" height="30" width="40" /></a>  
 
 <a href="https://twitter.com/rujuldwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rujuldwivedi" height="30" width="40" /></a>
