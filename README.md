@@ -1,11 +1,28 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/102957426?v=4" width="150" alt="Profile Picture">  
   
-  <h><a href="https://linkedin.com/in/rujuldwivedi">Rujul Dwivedi</a></h>
+  <h><a>Rujul Dwivedi</a></h>
   
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/rujuldwivedi" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rujuldwivedi" height="30" width="40" />
+</a>
 
-<!-- <a href="https://codeforces.com/profile/rujuldwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rujuldwivedi" height="30" width="40" /></a>
-[<a href="https://www.leetcode.com/rujuldwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rujuldwivedi" height="30" width="40" /></a>-->
+<!-- Twitter -->
+<a href="https://twitter.com/rujuldwivedi" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rujuldwivedi" height="30" width="40" />
+</a>
+
+<!-- Instagram -->
+<a href="https://www.instagram.com/rujuldwivedi" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rujuldwivedi" height="30" width="40" />
+</a>
+
+<!-- Codeforces -->
+<a href="https://codeforces.com/profile/rujuldwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rujuldwivedi" height="30" width="40" /></a>
+
+<!-- Leetcode -->
+<a href="https://www.leetcode.com/rujuldwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rujuldwivedi" height="30" width="40" /></a>
 
 <p><i>Java Developer | ML/AI Explorer | Aspiring Quant</i></p>
 </div>
@@ -30,7 +47,8 @@ Hey there! I’m a dynamic problem-solver at the intersection of **software deve
 
 ### Analyst | Intern @ [Latentview Analytics](https://www.latentview.com/)
 *Jan 2025 – Present*
-- Working with GenAI and Prompt Engineering along with a Frontend design.
+- Working with GenAI and Prompt Engineering.
+- Creating a frontend design for the application.
 
 ### Data Analyt | Intern @ [Discourse Consulting](https://discourseconsulting.com/)
 *Jun 2024 – Jul 2024*
