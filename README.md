@@ -2,7 +2,8 @@
   <img src="https://avatars.githubusercontent.com/u/102957426?v=4" width="150" alt="Profile Picture">  
   
   <h><a>Rujul Dwivedi</a></h>
-  
+
+<a href="mailto:rujuldwivedi@icloud.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="rujuldwivedi@icloud.com" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rujuldwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rujuldwivedi" height="30" width="40" /></a>  
 
 <a href="https://twitter.com/rujuldwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rujuldwivedi" height="30" width="40" /></a>
@@ -34,8 +35,8 @@ Hey there! I’m a dynamic problem-solver at the intersection of **software deve
 
 ### Analyst | Intern @ [Latentview Analytics](https://www.latentview.com/)
 *Jan 2025 – Present*
-- Working with GenAI and Prompt Engineering.
-- Creating a frontend design for the application.
+- Working with Generative AI and Prompt Engineering.
+- Creating a frontend design for the AI-enhanced applications.
 
 ### Data Analyt | Intern @ [Discourse Consulting](https://discourseconsulting.com/)
 *Jun 2024 – Jul 2024*
