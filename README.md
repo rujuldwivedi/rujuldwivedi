@@ -39,7 +39,7 @@ Hey there! I’m a dynamic problem-solver at the intersection of **software deve
 ### Analyst | Intern @ [Latentview Analytics](https://www.latentview.com/)
 *Jan 2025 – Present*
 - Developing **Proof of Concept (PoC)** solutions using **Generative AI techniques**.
-- Applying **Prompt Engineering** to optimize LLM outputs for tasks like **summarization**, **sentiment analysis**, and **automated reporting**.
+- Applying **Prompt Engineering** to optimize LLMs for **sentiment analysis** and **auto-reporting**.
 
 ### Data Analyt | Intern @ [Discourse Consulting](https://discourseconsulting.com/)
 *Jun 2024 – Jul 2024*
