@@ -1,7 +1,5 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/102957426?v=4" width="150" alt="Profile Picture">  
-  
-  <h><a>Rujul Dwivedi</a></h>
 
 
 
