@@ -27,7 +27,7 @@ Hey there! I’m a dynamic problem-solver at the intersection of **software deve
 ### Analyst | Intern @ [Latentview Analytics](https://www.latentview.com/)
 *Jan 2025 – Present*
 - Developing an **AI-powered** classification system for retail product categorization.
-- Leveraging **Gen AI** and **Prompt Engineering** to optimize LLMs for sentiment analysis.
+- Leveraging **Gen AI** and **Prompt Engineering** to optimize LLMs for auto-reporting.
 
 ### Data Analyt | Intern @ [Discourse Consulting](https://discourseconsulting.com/)
 *Jun 2024 – Jul 2024*
