@@ -26,13 +26,10 @@ Hey there! I’m a dynamic problem-solver at the intersection of **software deve
 
 ### Analyst | Intern @ [Latentview Analytics](https://www.latentview.com/)
 *Jan 2025 – Present*
-- Developing an **AI-powered** classification system for retail product categorization.
-- Leveraging **Gen AI** and **Prompt Engineering** to optimize LLMs for auto-reporting.
-
-### Data Analyt | Intern @ [Discourse Consulting](https://discourseconsulting.com/)
-*Jun 2024 – Jul 2024*
-- Automated **data pipelines** for electoral campaigns, improving accuracy and speed by **8%**.
-- Conducted sentiment analysis using **NLP**, enhancing public engagement insights by **10%**.
+- Building an **AI-driven classification system** to automatically categorize products.
+- Enhancing **product visibility** & improving the customer experience.
+- Leveraging **machine learning models** to improve classification accuracy.
+- Implementing **NLP-based sentiment analysis** to analyze customer feedback.
 
 ---
 
