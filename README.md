@@ -49,9 +49,8 @@ Devised PINN and DGM architectures for pricing European options.
 
 ## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-%23121011?style=flat-square&logo=gnu-bash&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%2344788F?style=flat-square&logo=postgresql&logoColor=white) 
-![Git](https://img.shields.io/badge/-Git-%23F05033?style=flat-square&logo=git&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=flat-square&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=black)   
+![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%2344788F?style=flat-square&logo=postgresql&logoColor=white)  
+![Bash](https://img.shields.io/badge/-Bash-%23121011?style=flat-square&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/-Git-%23F05033?style=flat-square&logo=git&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=flat-square&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=black)   
 
 ---
 
