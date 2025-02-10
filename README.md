@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/102957426?v=4" width="150" alt="Profile Picture">  
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQH5EiOoYBNjJg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1721237852291?e=2147483647&v=beta&t=-QLPopKRZ2FjGiSi5jykjcl5PSEvHiP0jDUrsH3T2PM" width="150" alt="Profile Picture">  
 
 
 
