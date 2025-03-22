@@ -10,7 +10,15 @@
 
 ## 👋 About Me
 
-Hey there! I’m a dynamic problem-solver at the intersection of **software development**, **machine learning**, and **quantitative finance**.
+Hey there!
+
+I’m a curious **technophile** with a knack for building systems that work as efficiently as they think. From crafting dynamic **Java** solutions to diving deep into the realms of **machine learning** and **quantitative finance**, I find joy in blending **logic with creativity** to solve meaningful problems.
+
+When I’m not busy **optimizing algorithms**, you might catch me exploring the elegance of **mathematics**, pondering the vast mysteries of **cosmology**, or losing myself in the narrative magic of **literature**. For me, every equation, every star, and every story holds the potential for discovery and wonder.
+
+Off-screen, I’m a **part-time guitarist**, a **competitive chess player**, and an **energetic midfielder**, thriving on challenges that require both intuition and precision. Oh, and I’m a die-hard supporter of **Real Madrid** and the **Indian Cricket Team**.
+
+If you’re looking to collaborate, exchange ideas, or just geek out about tech, sports, or the universe, let’s connect!
 
 ---
 
@@ -26,32 +34,38 @@ Hey there! I’m a dynamic problem-solver at the intersection of **software deve
 
 ### Analyst | Intern @ [Latentview Analytics](https://www.latentview.com/)
 *Jan 2025 – Present*
-- Developed an AI-powered classification system for automated retail categorization using product
-features and descriptions, achieving 90% accuracy on the test set, optimizing inventory management
+- Developed an **AI-powered** classification system for automated **retail categorization** using product
+features and descriptions, achieving **90% accuracy** on the test set, optimizing inventory management
 and product organization.
-- Implemented an NLP-based LSTM architecture to process product metadata from a merged dataset
-of different Amazon datasets, defined by a statistical metric covering 80% of total items inside the
+- Implemented an **NLP-based LSTM** architecture to process product metadata from a merged dataset
+of different _Amazon datasets_, defined by a **statistical metric covering 80%** of total items inside the
 distributive range.
-- Enhanced and extended the model to accurately categorize title descriptions from the Databricks
-dataset into Audience Personas, leveraging advanced NLP techniques and cross-validation to
-improve generalization, ultimately achieving a high 97.5% test accuracy.
-- Integrating this pipeline with a hybrid BERT and Generative AI model to automate title
-categorization into chief-level roles for a heavily skewed dataset involving SMOTE sampling
-technique, targeting 90% recall.
+- Enhanced and extended the model to accurately categorize **title descriptions** from the _Databricks_
+dataset into **Audience Personas**, leveraging advanced **NLP techniques and cross-validation** to
+improve generalization, ultimately achieving a high **97.5%** test accuracy.
+- Integrating this pipeline with a hybrid **BERT and Generative AI** model to automate **title
+categorization** into **chief-level roles** for a _heavily skewed dataset_ involving **SMOTE sampling
+technique**, targeting **90% recall**.
 
 ---
 
 ## 💼 Projects
 
-### 1. **[Production-Level eCommerce App](https://www.github.com/rujuldwivedi/Full-Stack-eCommerce-App)**
-Developed a full-stack eCommerce platform with seamless front-end and back-end communication.
-- **Tech Stack**: Spring Boot, React, PostgreSQL, AWS
-- **Outcome**: Achieved 99.9% uptime with secure, role-based access control.
+### 1. **[Deep Learning for Option Pricing](https://www.github.com/rujuldwivedi/Deep-Learning-Option-Pricing)**
+- Modelled a **Physics-Informed Neural Network (PINN)** to solve the **Black-Scholes PDE**.
+- Integrated an **LSTM layer** to capture _temporal dependencies_ in **multi-asset pricing**.
+• **Tech Stack**: Python, Scikit-learn, Pandas, TensorFlow, NumPy
+• **Outcome**
+  - Reduced option pricing errors by **10.3%** compared to traditional numerical methods.
+  - Improved model accuracy from **91.5% to 96.5%** by implementing the **Deep Galerkin Method**.
 
-### 2. **[Deep Learning for Option Pricing](https://www.github.com/rujuldwivedi/Deep-Learning-Option-Pricing)**
-Devised PINN and DGM architectures for pricing European options.
-- **Tech Stack**: Python, NumPy, Matplotlib
-- **Outcome**: 20% improvement in accuracy over traditional FDM.
+### 2. **[Production-Level eCommerce App](https://www.github.com/rujuldwivedi/Full-Stack-eCommerce-App)**
+- Built a robust **eCommerce App** using **Spring Boot** for the back-end and **React** for the front-end.
+- Designed a **user-friendly interface** with **Tailwind** and integrated **PostgreSQL**.
+• **Tech Stack**: Java, Spring Boot, React, PostgreSQL, Tailwind
+• **Outcome**
+  - Ensured **99.9% uptime** by implementing secure **JWT authentication** to protect **user sessions**.
+  - Increased average session duration by **10%** through _pagination_.
 
 ---
 
