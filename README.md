@@ -26,10 +26,18 @@ Hey there! I’m a dynamic problem-solver at the intersection of **software deve
 
 ### Analyst | Intern @ [Latentview Analytics](https://www.latentview.com/)
 *Jan 2025 – Present*
-- Building an **AI-driven classification system** to automatically categorize products.
-- Enhancing **product visibility** & improving the customer experience.
-- Leveraging **machine learning models** to improve classification accuracy.
-- Implementing **NLP-based sentiment analysis** to analyze customer feedback.
+- Developed an AI-powered classification system for automated retail categorization using product
+features and descriptions, achieving 90% accuracy on the test set, optimizing inventory management
+and product organization.
+- Implemented an NLP-based LSTM architecture to process product metadata from a merged dataset
+of different Amazon datasets, defined by a statistical metric covering 80% of total items inside the
+distributive range.
+- Enhanced and extended the model to accurately categorize title descriptions from the Databricks
+dataset into Audience Personas, leveraging advanced NLP techniques and cross-validation to
+improve generalization, ultimately achieving a high 97.5% test accuracy.
+- Integrating this pipeline with a hybrid BERT and Generative AI model to automate title
+categorization into chief-level roles for a heavily skewed dataset involving SMOTE sampling
+technique, targeting 90% recall.
 
 ---
 
