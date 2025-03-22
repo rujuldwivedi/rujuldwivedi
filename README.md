@@ -54,16 +54,16 @@ technique**, targeting **90% recall**.
 ### 1. **[Deep Learning for Option Pricing](https://www.github.com/rujuldwivedi/Deep-Learning-Option-Pricing)**
 - Modelled a **Physics-Informed Neural Network (PINN)** to solve the **Black-Scholes PDE**.
 - Integrated an **LSTM layer** to capture _temporal dependencies_ in **multi-asset pricing**.
-• **Tech Stack**: Python, Scikit-learn, Pandas, TensorFlow, NumPy  
-• **Outcome**:  
+- **Tech Stack**: Python, Scikit-learn, Pandas, TensorFlow, NumPy  
+- **Outcome**:  
   - Reduced option pricing errors by **10.3%** compared to traditional numerical methods.
   - Improved model accuracy from **91.5% to 96.5%** by implementing the **Deep Galerkin Method**.
 
 ### 2. **[Production-Level eCommerce App](https://www.github.com/rujuldwivedi/Full-Stack-eCommerce-App)**
 - Built a robust **eCommerce App** using **Spring Boot** for the back-end and **React** for the front-end.
 - Designed a **user-friendly interface** with **Tailwind** and integrated **PostgreSQL**.
-• **Tech Stack**: Java, Spring Boot, React, PostgreSQL, Tailwind  
-• **Outcome**:  
+- **Tech Stack**: Java, Spring Boot, React, PostgreSQL, Tailwind  
+- **Outcome**:  
   - Ensured **99.9% uptime** by implementing secure **JWT authentication** to protect **user sessions**.
   - Increased average session duration by **10%** through _pagination_.
 
