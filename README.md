@@ -1,6 +1,7 @@
 <h1 align="center">Hey there, I'm Rujul Dwivedi 👋</h1>
 
 <p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQH5EiOoYBNjJg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1721237852291?e=1757548800&v=beta&t=KpweCyHux5PbfcEx5EoBEXEMbsBe2YQUElCOOu7C95g" alt="Rujul Dwivedi Banner" width="100%" />
   🚀 Developer | 🎯 Problem Solver | 🎵 Music Nerd <br/>
   ⚙️ Java + Python + C++ | 💻 Full Stack | 🌌 ML + Cosmology <br/>
   📍 IIT Goa | 🧠 SDE Aspirant | ⚽ Real Madrid | ♟️ Chess Fan
@@ -94,7 +95,6 @@ Console-based chess game with ANSI UI and bitboard logic.
 
 ## 📫 Let's Connect
 
-- 🌐 [Portfolio Website](https://www.rujuldwivedi.in)
 - 📬 [Email](mailto:rujuldwivedi@icloud.com)
 - 💬 [WhatsApp](https://wa.me/919695133900)
 - 💼 [LinkedIn](https://linkedin.com/in/rujuldwivedi)
