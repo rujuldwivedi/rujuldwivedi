@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Rujul Dwivedi 👋</h1>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQH5EiOoYBNjJg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1721237852291?e=1757548800&v=beta&t=KpweCyHux5PbfcEx5EoBEXEMbsBe2YQUElCOOu7C95g" alt="Rujul Dwivedi Banner" width="25%" />
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQH5EiOoYBNjJg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1721237852291?e=1757548800&v=beta&t=KpweCyHux5PbfcEx5EoBEXEMbsBe2YQUElCOOu7C95g" alt="Rujul Dwivedi Banner" width="50%" />  
   🚀 Developer | 🎯 Problem Solver | 🎵 Music Nerd <br/>
   ⚙️ Java + Python + C++ | 💻 Full Stack | 🌌 ML + Cosmology <br/>
   📍 IIT Goa | 🧠 SDE Aspirant | ⚽ Real Madrid | ♟️ Chess Fan
