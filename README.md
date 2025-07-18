@@ -11,9 +11,9 @@
 
 ## 🧑‍💻 About Me
 
-Hi! I'm Rujul — a passionate developer who thrives at the intersection of code, creativity, and curiosity. I love building real-world projects that combine clean engineering with personal passion — from cryptography tools to music discovery apps.
+Hi! I'm Rujul, a passionate developer who thrives at the intersection of code, creativity, and curiosity. I love building real-world projects that combine clean engineering with personal passion, from cryptography tools to music discovery apps.
 
-> 🔬 I explore the universe through code — be it modeling PDEs with PINNs or swiping on songs like it's Tinder!
+> 🔬 I explore the universe through code, be it modeling PDEs with PINNs or swiping on songs like it's Tinder!
 
 - 🏫 Final-year B.Tech student at IIT Goa (Mathematics & Computing)
 - 🎸 Hobbyist guitarist and football (⚽) addict
@@ -97,8 +97,6 @@ Console-based chess game with ANSI UI and bitboard logic.
 
 - 📬 [Email](mailto:rujuldwivedi@icloud.com)
 - 💬 [WhatsApp](https://wa.me/919695133900)
-- 💼 [LinkedIn](https://linkedin.com/in/rujuldwivedi)
-- 💻 [GitHub](https://github.com/rujuldwivedi)
 
 ---
 
