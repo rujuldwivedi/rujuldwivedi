@@ -34,7 +34,7 @@ Here's a glimpse into my world:
 
 ---
 
-## 💼 Experience Highlights
+## 💼 Experience
 
 My journey has seen me tackle challenging problems and build impactful solutions:
 
@@ -52,7 +52,7 @@ My journey has seen me tackle challenging problems and build impactful solutions
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Projects
 
 My projects are a testament to my dedication and diverse skill set. Here are a few that I'm particularly proud of:
 
@@ -157,16 +157,9 @@ I'm proficient across a wide array of technologies, constantly expanding my tool
 Curious about my GitHub activity? Here are some insights into my contributions and reach:
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rujuldwivedi&color=blue" alt="Profile views" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rujuldwivedi&layout=compact&theme=radical&hide_border=true" alt="Rujul's Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=rujuldwivedi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Rujul's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rujuldwivedi&theme=radical&hide_border=true" alt="Rujul's GitHub Streak" />
-</p>
-
-### Most Used Languages:
-<p align="center">
-  <a href="https://github.com/rujuldwivedi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rujuldwivedi&layout=compact&theme=radical&hide_border=true" alt="Rujul's Top Languages" />
-  </a>
 </p>
 
 ---
