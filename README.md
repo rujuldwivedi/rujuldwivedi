@@ -8,17 +8,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/rujuldwivedi">
-    <img src="https://github-readme-stats.vercel.app/api?username=rujuldwivedi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rujul's GitHub Stats" />
-  </a>
-  <a href="https://github.com/rujuldwivedi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rujuldwivedi&theme=radical&hide_border=true" alt="Rujul's GitHub Streak" />
-  </a>
-</p>
-
----
-
 ## 🧑‍💻 About Me
 
 I'm a **Mathematics & Computing** graduate, whose passion lies in building robust, real-world applications that blend clean engineering with innovative solutions. From designing secure systems to exploring the depths of machine learning, I thrive on bringing complex ideas to life through code.
