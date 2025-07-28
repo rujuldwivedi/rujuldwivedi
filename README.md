@@ -154,12 +154,12 @@ I'm proficient across a wide array of technologies, constantly expanding my tool
 
 ## 📊 GitHub Analytics
 
-Curious about my GitHub activity? Here are some insights:
+Curious about my GitHub activity? Here are some insights into my contributions and reach:
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rujuldwivedi&theme=radical&no-frame=true&no-bg=true" alt="Rujul's GitHub Trophies" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=rujuldwivedi&color=blue" alt="Profile views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rujuldwivedi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Rujul's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rujuldwivedi&theme=radical&hide_border=true" alt="Rujul's GitHub Streak" />
 </p>
 
 ### Most Used Languages:
