@@ -157,9 +157,9 @@ Curious about my GitHub activity? Here are some insights into my contributions a
 
 I'm always open to new opportunities, collaborations, or just a good chat about tech, football, or the universe!
 
--   **Email:** 📬 [rujuldwivedi@icloud.com](mailto:rujuldwivedi@icloud.com)
--   **WhatsApp:** 💬 [Connect on WhatsApp](https://wa.me/919695133900)
--   **LinkedIn:** 🔗 [Rujul Dwivedi](https://www.linkedin.com/in/rujuldwivedi)
+-   **Email:** 📬 [iMail](mailto:rujuldwivedi@icloud.com)
+-   **WhatsApp:** 💬 [Text](https://wa.me/919695133900)
+-   **LinkedIn:** 🔗 [Profile](https://www.linkedin.com/in/rujuldwivedi)
 
 ---
 
