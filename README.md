@@ -16,9 +16,9 @@
 ## 🔥 GitHub Stats & Visitors
 
 <p align="center">
-  ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=rujuldwivedi.visitor-badge)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rujuldwivedi&theme=tokyonight&layout=compact)
-  ![Stats](https://github-readme-stats.vercel.app/api?username=rujuldwivedi&show_icons=true&theme=tokyonight)
+  ![Visitor Badge] (https://visitor-badge.glitch.me/badge?page_id=rujuldwivedi.visitor-badge)
+  ![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=rujuldwivedi&theme=tokyonight&layout=compact)
+  ![Stats] (https://github-readme-stats.vercel.app/api?username=rujuldwivedi&show_icons=true&theme=tokyonight)
 </p>
 
 ---
