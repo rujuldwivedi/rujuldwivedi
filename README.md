@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQH5EiOoYBNjJg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1721237852291?e=1756339200&v=beta&t=yzDn2tGhcpBHh2jEtIS0qeL2e_lLTKu5DhQl0WYdhhQ" alt="Rujul Dwivedi – Software + ML Dev" width="100%"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQH5EiOoYBNjJg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1721237852291?e=1756339200&v=beta&t=yzDn2tGhcpBHh2jEtIS0qeL2e_lLTKu5DhQl0WYdhhQ" alt="Rujul Dwivedi – Software + ML Dev" width="50%"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm **Rujul Dwivedi**</h1>
