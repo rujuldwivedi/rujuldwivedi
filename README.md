@@ -41,50 +41,6 @@ My journey has seen me tackle challenging problems and build impactful solutions
 
 ---
 
-## 🔥 Projects
-
-My projects are a testament to my dedication and diverse skill set. Here are a few that I'm particularly proud of:
-
-### 🛒 [E-Commerce Platform](https://github.com/rujuldwivedi/Full-Stack-eCommerce-App)
-A robust and secure MERN-style e-commerce system built with Spring Boot and React.
-
--   **Security:** Implemented secure, role-based JWT access control for enhanced data protection.
--   **Performance:** Achieves sub-**100ms API response times** for a smooth user experience.
--   **Features:** Comprehensive product filtering, search functionalities, and efficient pagination.
--   **Database:** Powered by a reliable PostgreSQL backend.
-
-### 📊 [Dashboard App](https://github.com/rujuldwivedi/Dashboard)
-A dynamic productivity and goal-tracking application offering real-time updates and interactive visualizations.
-
--   **Visuals:** Features intuitive and interactive charts for data representation.
--   **Backend:** Built with Node.js and MongoDB for efficient data handling.
--   **Speed:** Boasts ultra-fast **50ms query reads** with persistent storage.
-
-### 🎵 [Music Tinder](https://github.com/rujuldwivedi/music-tinder)
-A full-stack music discovery application inspired by the popular dating app, allowing users to swipe on songs and match by musical vibe.
-
--   **Integration:** Seamless Spotify API integration for track analysis and playlist generation.
--   **Backend:** Robust Django REST Framework backend with secure JWT authentication.
--   **Performance:** Delivers personalized song suggestions in under **120ms**.
--   **Frontend:** Modern and responsive React.js frontend styled with Tailwind CSS.
-
-### 🔐 [Cryptoseek (C++ CLI Tool)](https://github.com/rujuldwivedi/cryptoseek)
-A powerful command-line document search engine that prioritizes privacy by encrypting its index using XOR.
-
--   **Indexing:** Efficient inverted index builder from `.txt` files.
--   **Security:** Implements XOR-encrypted data persistence for enhanced privacy.
--   **Search:** Provides intelligent fuzzy search suggestions for better user experience.
--   **Concept:** An ideal minor project demonstrating strong understanding of privacy and system design.
-
-### ♟️ [PawnRush (Java Chess Engine)](https://github.com/rujuldwivedi/Chess-Java)
-A console-based chess game featuring an ANSI UI and an optimized bitboard logic for move generation.
-
--   **Logic:** Employs efficient bitboard logic for rapid and accurate move generation.
--   **UI:** Offers a visually appealing console with colored boards and standard algebraic notation.
--   **Learning:** An excellent project for delving into Java OOP principles and complex game logic.
-
----
-
 ## 🛠️ Tech Stack
 
 I'm proficient across a wide array of technologies, constantly expanding my toolkit to build innovative solutions.
