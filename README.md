@@ -3,9 +3,7 @@
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D5603AQH5EiOoYBNjJg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1721237852291?e=1756339200&v=beta&t=yzDn2tGhcpBHh2jEtIS0qeL2e_lLTKu5DhQl0WYdhhQ" alt="Rujul Dwivedi Banner" width="25%" />
   <br/>
-  🚀 Full Stack Developer | 🧠 Machine Learning Enthusiast | 🎯 Problem Solver
-  <br/>
-  📍 IIT Goa | 💻 SDE Aspirant | 🌌 Cosmology Fan
+  🚀 Cosmology Afficianado | 🧠 Mathematics Enthusiast | 💻 Software Developer
 </p>
 
 ---
@@ -35,8 +33,8 @@ Here's a glimpse into my world:
     -   **Hobbies:** Playing the guitar 🎸, an avid football (⚽) addict (huge Real Madrid fan!), and a keen chess ♟️ player.
     -   **Curiosities:** Cosmology and the mysteries of the universe.
 -   **Aspirations:** Aspiring Software Development Engineer (SDE) with a knack for problem-solving.
--   **Portfolio:** Explore my work at [rujuldwivedi.in](https://www.rujuldwivedi.in)
--   **Resume:** Check out my detailed resume at [tinyurl.com/rujuldwivedi](https://www.tinyurl.com/rujuldwivedi)
+-   **Portfolio:** Explore my work at [Portfolio](https://www.rujuldwivedi.in)
+-   **Resume:** Check out my detailed resume at [Resume](https://www.tinyurl.com/rujuldwivedi)
 
 ---
 
@@ -44,14 +42,14 @@ Here's a glimpse into my world:
 
 My journey has seen me tackle challenging problems and build impactful solutions:
 
-### **Software Engineer Intern** @ LatentView Analytics
-*May 2024 – July 2024*
+### **Data Analyst Intern** @ LatentView Analytics
+*Jan 2025 – Apr 2025*
 
 -   Developed and implemented a **BERT + LSTM pipeline** for classifying highly imbalanced datasets, achieving an impressive **97.5% accuracy**.
 -   Engineered a data preprocessing module for text data, significantly improving model performance and robustness.
 
 ### **Research Intern** @ IIT Goa
-*December 2023 – April 2024*
+*Aug 2024 – Nov 2024*
 
 -   Applied **Physics-Informed Neural Networks (PINNs)** to effectively solve Black-Scholes Partial Differential Equations (PDEs), demonstrating a novel approach to financial modeling.
 -   Contributed to research at the intersection of machine learning and mathematical finance.
@@ -61,14 +59,6 @@ My journey has seen me tackle challenging problems and build impactful solutions
 ## 🔥 Featured Projects
 
 My projects are a testament to my dedication and diverse skill set. Here are a few that I'm particularly proud of:
-
-### 🎵 [Music Tinder](https://github.com/rujuldwivedi/music-tinder)
-A full-stack music discovery application inspired by the popular dating app, allowing users to swipe on songs and match by musical vibe.
-
--   **Integration:** Seamless Spotify API integration for track analysis and playlist generation.
--   **Backend:** Robust Django REST Framework backend with secure JWT authentication.
--   **Performance:** Delivers personalized song suggestions in under **120ms**.
--   **Frontend:** Modern and responsive React.js frontend styled with Tailwind CSS.
 
 ### 🛒 [E-Commerce Platform](https://github.com/rujuldwivedi/Full-Stack-eCommerce-App)
 A robust and secure MERN-style e-commerce system built with Spring Boot and React.
@@ -84,6 +74,14 @@ A dynamic productivity and goal-tracking application offering real-time updates 
 -   **Visuals:** Features intuitive and interactive charts for data representation.
 -   **Backend:** Built with Node.js and MongoDB for efficient data handling.
 -   **Speed:** Boasts ultra-fast **50ms query reads** with persistent storage.
+
+### 🎵 [Music Tinder](https://github.com/rujuldwivedi/music-tinder)
+A full-stack music discovery application inspired by the popular dating app, allowing users to swipe on songs and match by musical vibe.
+
+-   **Integration:** Seamless Spotify API integration for track analysis and playlist generation.
+-   **Backend:** Robust Django REST Framework backend with secure JWT authentication.
+-   **Performance:** Delivers personalized song suggestions in under **120ms**.
+-   **Frontend:** Modern and responsive React.js frontend styled with Tailwind CSS.
 
 ### 🔐 [Cryptoseek (C++ CLI Tool)](https://github.com/rujuldwivedi/cryptoseek)
 A powerful command-line document search engine that prioritizes privacy by encrypting its index using XOR.
@@ -187,5 +185,5 @@ I'm always open to new opportunities, collaborations, or just a good chat about 
 
 ---
 
-> "Code like a craftsman. Learn like a physicist. Play like a kid."
-> — **Rujul Dwivedi**
+> "I guess I could use a little social interaction."
+> — **The Grinch**
