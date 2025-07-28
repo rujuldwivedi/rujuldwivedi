@@ -1,146 +1,191 @@
-<!-- h1 align="center">Hey, I'm Rujul Dwivedi 👋</h1 -->
+<h1 align="center">Hey there, I'm Rujul Dwivedi 👋</h1>
 
-<!-- p align="center" -->
-<!-- img src="https://media.licdn.com/dms/image/v2/D5603AQH5EiOoYBNjJg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1721237852291?e=1757548800&v=beta&t=KpweCyHux5PbfcEx5EoBEXEMbsBe2YQUElCOOu7C95g" alt="Rujul Dwivedi Banner" width="22%" style="border-radius: 50%;"/ -->
-<!-- br/ -->
-🚀 `Developer` | 🎯 `Problem Solver` | 🌌 `Tech Enthusiast`
-⚙️ `Java` + `Python` + `C++` | 💻 `Full Stack` | 🤖 `AI/ML Engineer`
-📍 IIT Goa | 🧠 SDE Aspirant | ⚽ Football | ♟️ Chess Nerd
-<!-- /p -->
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQH5EiOoYBNjJg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1721237852291?e=1756339200&v=beta&t=yzDn2tGhcpBHh2jEtIS0qeL2e_lLTKu5DhQl0WYdhhQ" alt="Rujul Dwivedi Banner" width="25%" />
+  <br/>
+  🚀 Full Stack Developer | 🧠 Machine Learning Enthusiast | 🎯 Problem Solver
+  <br/>
+  📍 IIT Goa | 💻 SDE Aspirant | 🌌 Cosmology Fan
+</p>
 
-<!-- hr/ -->
+---
 
-<!-- table align="center" -->
-|  | [ | [ | [ | [ |
+<p align="center">
+  <a href="https://github.com/rujuldwivedi">
+    <img src="https://github-readme-stats.vercel.app/api?username=rujuldwivedi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rujul's GitHub Stats" />
+  </a>
+  <a href="https://github.com/rujuldwivedi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rujuldwivedi&theme=radical&hide_border=true" alt="Rujul's GitHub Streak" />
+  </a>
+</p>
 
-<!-- h2 align="center" -->💡 About Me
-Hi! I'm **Rujul**, an explorer at the crossroads of technology, creativity, and curiosity. I turn caffeine and algorithms into delightful products—from cryptography tools to AI-powered music discovery, and finance simulations to blazing-fast dashboard apps.
+---
 
-> 🌠 “Learn like a physicist. Build like a craftsman. Play like a kid.”
+## 🧑‍💻 About Me
 
-- 🏫 **B.Tech (Final Year), Mathematics \& Computing** at IIT Goa
-- 🎸 Hobbyist guitarist | ⚽ Football (Real Madrid ❤️) | ♟️ Chess \& strategy
-- 💡 Fan of cosmology, algorithms, and all things music tech
-- 🌐 Checkout my portfolio at [rujuldwivedi.in](https://www.rujuldwivedi.in)
+Hi! I'm **Rujul**, a final-year B.Tech student at **IIT Goa**, specializing in **Mathematics & Computing**. My passion lies in building robust, real-world applications that blend clean engineering with innovative solutions. From designing secure systems to exploring the depths of machine learning, I thrive on bringing complex ideas to life through code.
 
-<!-- h2 -->🚩 Experience
-<!-- ul style="list-style: none" -->
+> 🔬 I'm constantly exploring the universe through code, whether it's modeling intricate PDEs with Physics-Informed Neural Networks (PINNs) or crafting delightful user experiences like a music discovery app!
 
-- 💼 **LatentView Analytics** | Data Science Intern
-    - Built advanced *BERT+LSTM* pipelines (97.5% accuracy!) for NLP on imbalanced data
-- 🧑🔬 **IIT Goa Research**
-    - Modeled financial PDEs using *Physics-Informed Neural Networks (PINNs)*—solving Black-Scholes in PyTorch
-- 🏢 **Akuna Capital** | Trading Intern
-- 🛠️ For details, [check my resume](https://www.tinyurl.com/rujuldwivedi) or [LinkedIn](https://linkedin.com/in/rujuldwivedi/)
+Here's a glimpse into my world:
 
-<!-- h2 -->📊 Quick GitHub Stats
-<!-- p align="center" -->
-<!-- img src="https://github-readme-streak-stats.herokuapp.com/?user=rujuldwivedi&theme=radical" alt="GitHub Streak"/ -->
-<!-- img src="https://github-readme-stats.vercel.app/api?username=rujuldwivedi&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_title=true" alt="Github Stats"/ -->
-<!-- img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rujuldwivedi&theme=react&layout=compact&langs_count=10" alt="Top Languages"/ -->
-<!-- /p -->
+-   **Education:** B.Tech in Mathematics & Computing, Indian Institute of Technology Goa (Expected Graduation: 2026)
+-   **Interests:**
+    -   **Tech:** Full-stack development, machine learning, data science, algorithms, system design.
+    -   **Hobbies:** Playing the guitar 🎸, an avid football (⚽) addict (huge Real Madrid fan!), and a keen chess ♟️ player.
+    -   **Curiosities:** Cosmology and the mysteries of the universe.
+-   **Aspirations:** Aspiring Software Development Engineer (SDE) with a knack for problem-solving.
+-   **Portfolio:** Explore my work at [rujuldwivedi.in](https://www.rujuldwivedi.in)
+-   **Resume:** Check out my detailed resume at [tinyurl.com/rujuldwivedi](https://www.tinyurl.com/rujuldwivedi)
 
-<!-- (Above: Current streak, overall stars/commits, and top used languages auto-update!) -->
+---
 
-- 💻 **Contributions:** `{{Contributions_Last_Year}}`
-- 🗂 **Public Repos:** `{{Public_Repo_Count}}`
-- 🏆 **GitHub Stars Received:** `{{Total_Stars}}+`
-- 🗣️ **Followers:** `{{Followers}}`
-- 🌍 **Active Since:** `2020`
-*(PS: Actual stats auto-update!)*
+## 💼 Experience Highlights
 
-<!-- h2 -->💡 Project Portfolio
-_Organized by Tech Stack (auto-updated below!)_
+My journey has seen me tackle challenging problems and build impactful solutions:
 
-#### 👨💻 By Main Language
+### **Software Engineer Intern** @ LatentView Analytics
+*May 2024 – July 2024*
 
-<!-- ul style="list-style-type:none" -->
+-   Developed and implemented a **BERT + LSTM pipeline** for classifying highly imbalanced datasets, achieving an impressive **97.5% accuracy**.
+-   Engineered a data preprocessing module for text data, significantly improving model performance and robustness.
 
-- **JavaScript/TypeScript**: Music Tinder, E-Commerce Platform, Dashboard
-- **Java**: PawnRush Chess Engine, backend modules
-- **Python**: Deep learning \& analytics, research code, crypto utilities
-- **C++**: Cryptoseek (privacy CLI), system projects
-<!-- /ul -->
+### **Research Intern** @ IIT Goa
+*December 2023 – April 2024*
 
+-   Applied **Physics-Informed Neural Networks (PINNs)** to effectively solve Black-Scholes Partial Differential Equations (PDEs), demonstrating a novel approach to financial modeling.
+-   Contributed to research at the intersection of machine learning and mathematical finance.
 
-#### 🚀 Flagship Projects
+---
 
-<!-- ul -->
+## 🔥 Featured Projects
 
-- 🎵 **[Music Tinder](https://github.com/rujuldwivedi/music-tinder):** Full-stack music discovery (Spotify, React, Django, JWT)
-- 🛒 **[E-Commerce App](https://github.com/rujuldwivedi/Full-Stack-eCommerce-App):** Secure, high-speed shopping platform (Spring Boot, React, PostgreSQL)
-- 📊 **[Dashboard](https://github.com/rujuldwivedi/Dashboard):** Productivity app with real-time charts (Node.js, Mongo, React)
-- 🔐 **[Cryptoseek](https://github.com/rujuldwivedi/cryptoseek):** CLI encrypted document search (C++, XOR, Fuzzy)
-- ♟️ **[PawnRush Chess Engine](https://github.com/rujuldwivedi/Chess-Java):** Java chess console game with bitboards
-<!-- /ul -->
+My projects are a testament to my dedication and diverse skill set. Here are a few that I'm particularly proud of:
 
+### 🎵 [Music Tinder](https://github.com/rujuldwivedi/music-tinder)
+A full-stack music discovery application inspired by the popular dating app, allowing users to swipe on songs and match by musical vibe.
 
-#### 🏷️ **Bonus**: [See more…](https://github.com/rujuldwivedi?tab=repositories)
+-   **Integration:** Seamless Spotify API integration for track analysis and playlist generation.
+-   **Backend:** Robust Django REST Framework backend with secure JWT authentication.
+-   **Performance:** Delivers personalized song suggestions in under **120ms**.
+-   **Frontend:** Modern and responsive React.js frontend styled with Tailwind CSS.
 
-<!-- h2 -->🧠 Tech Toolbox
-<!-- table -->
+### 🛒 [E-Commerce Platform](https://github.com/rujuldwivedi/Full-Stack-eCommerce-App)
+A robust and secure MERN-style e-commerce system built with Spring Boot and React.
 
+-   **Security:** Implemented secure, role-based JWT access control for enhanced data protection.
+-   **Performance:** Achieves sub-**100ms API response times** for a smooth user experience.
+-   **Features:** Comprehensive product filtering, search functionalities, and efficient pagination.
+-   **Database:** Powered by a reliable PostgreSQL backend.
 
-|  | Languages | Frameworks \& Libraries | Databases | Tools |
-| :-- | :-- | :-- | :-- | :-- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+### 📊 [Dashboard App](https://github.com/rujuldwivedi/Dashboard)
+A dynamic productivity and goal-tracking application offering real-time updates and interactive visualizations.
 
-<!-- h2 -->📦 Language \& Repo Breakdown (Current)
-> _Live stats, grouped by top language!_
+-   **Visuals:** Features intuitive and interactive charts for data representation.
+-   **Backend:** Built with Node.js and MongoDB for efficient data handling.
+-   **Speed:** Boasts ultra-fast **50ms query reads** with persistent storage.
 
-<!-- Comment: Auto-inject stats with shields.io/github-languages-top or other dynamic services if desired. Example below is for illustration. -->
+### 🔐 [Cryptoseek (C++ CLI Tool)](https://github.com/rujuldwivedi/cryptoseek)
+A powerful command-line document search engine that prioritizes privacy by encrypting its index using XOR.
 
-<!-- ul style="list-style-type:none" -->
+-   **Indexing:** Efficient inverted index builder from `.txt` files.
+-   **Security:** Implements XOR-encrypted data persistence for enhanced privacy.
+-   **Search:** Provides intelligent fuzzy search suggestions for better user experience.
+-   **Concept:** An ideal minor project demonstrating strong understanding of privacy and system design.
 
-- **Total Repos:** `{{Public_Repo_Count}}`
-- **Languages Used:** `{{Language_Count}}`+ (Java, Python, C++, JS, SQL, HTML/CSS, ...)
-- **Top 3 Project Languages:**
--
--
--
-    - _(see [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rujuldwivedi&layout=compact&hide=html,css))_
-- **Average repo stars:** `{{Average_Stars}}`
-- **Most Forked Project:** [Music-Tinder](https://github.com/rujuldwivedi/Music-Tinder)
-- **Collaborators:** From global open-source contributors!
-<!-- /ul -->
+### ♟️ [PawnRush (Java Chess Engine)](https://github.com/rujuldwivedi/Chess-Java)
+A console-based chess game featuring an ANSI UI and an optimized bitboard logic for move generation.
 
-<!-- h2 -->🤝 Meet Me, Contact Me
+-   **Logic:** Employs efficient bitboard logic for rapid and accurate move generation.
+-   **UI:** Offers a visually appealing console with colored boards and standard algebraic notation.
+-   **Learning:** An excellent project for delving into Java OOP principles and complex game logic.
 
-- 📧 [Email](mailto:rujuldwivedi@icloud.com)
-- 💼 [LinkedIn](https://linkedin.com/in/rujuldwivedi)
-- 🌍 [Portfolio](https://www.rujuldwivedi.in)
-- 💬 [WhatsApp](https://wa.me/919695133900)
-- 📄 [Resume](https://www.tinyurl.com/rujuldwivedi)
+---
 
-<!-- h2 -->✨ Fun Facts
+## 🛠️ Tech Stack
 
-- 🛠 My code's been starred by users from 10+ countries 🌏
-- 🎶 I can play “Nothing Else Matters” while debugging!
-- 🤖 Once solved a PDE with PINNs for fun
-- ♟️ Favorite chess opening: Sicilian Defense
-- 🛸 Would code for NASA (or Real Madrid) for free!
+I'm proficient across a wide array of technologies, constantly expanding my toolkit to build innovative solutions.
 
-<!-- h2 -->🚀 “The beautiful thing about learning is that nobody can take it away from you.” — BB King
-<!-- h3 align="center" -->:zap: Let’s Build Something Incredible Together!
+### **Programming Languages:**
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+</p>
 
-<!-- COMMENT:  
-How to use:  
-1. Add your GitHub usernames to the 'username' params in the shields/markdown links above.  
-2. Paste into your README.md.  
-3. Replace curly-braced stat keys with dynamic fetchers (GitHub Stats, API, etc.)  
-4. Enjoy the most dynamic, personality-packed profile out there!  
--->
-*Want even crazier features? Try [activity widgets](https://github.com/marketplace/actions/github-profile-readme-generator#features), [contributor GIFs](https://github.com/ashutosh00710/github-readme-activity-graph), or [dynamic blog feeds](https://github.com/gjbae1212/gjbae1212)!*
+### **Frontend Development:**
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="vite" width="40" height="40"/> </a>
+</p>
 
-**Made with ❤️ by Rujul Dwivedi**
+### **Backend Development:**
+<p align="left">
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+</p>
 
-_And yes… this *is* the best README the world has ever seen.🐉_
+### **Databases:**
+<p align="left">
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+</p>
 
-<div style="text-align: center">⁂</div>
+### **ML / Data Science:**
+<p align="left">
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" alt="pytorch" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/> </a>
+</p>
 
-[^1]: https://media.licdn.com/dms/image/v2/D5603AQH5EiOoYBNjJg/profile-displayphoto-shrink_200_200/profile-dis
+### **DevOps & Tools:**
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> </a>
+  <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+</p>
 
+---
+
+## 📊 GitHub Analytics
+
+Curious about my GitHub activity? Here are some insights:
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rujuldwivedi&theme=radical&no-frame=true&no-bg=true" alt="Rujul's GitHub Trophies" />
+  </a>
+</p>
+
+### Most Used Languages:
+<p align="center">
+  <a href="https://github.com/rujuldwivedi">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rujuldwivedi&layout=compact&theme=radical&hide_border=true" alt="Rujul's Top Languages" />
+  </a>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to new opportunities, collaborations, or just a good chat about tech, football, or the universe!
+
+-   **Email:** 📬 [rujuldwivedi@icloud.com](mailto:rujuldwivedi@icloud.com)
+-   **WhatsApp:** 💬 [Connect on WhatsApp](https://wa.me/919695133900)
+-   **LinkedIn:** 🔗 [Rujul Dwivedi](https://www.linkedin.com/in/rujuldwivedi)
+
+---
+
+> "Code like a craftsman. Learn like a physicist. Play like a kid."
+> — **Rujul Dwivedi**
