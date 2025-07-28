@@ -21,18 +21,14 @@
 
 ## 🧑‍💻 About Me
 
-Hi! I'm **Rujul**, a final-year B.Tech student at **IIT Goa**, specializing in **Mathematics & Computing**. My passion lies in building robust, real-world applications that blend clean engineering with innovative solutions. From designing secure systems to exploring the depths of machine learning, I thrive on bringing complex ideas to life through code.
-
-> 🔬 I'm constantly exploring the universe through code, whether it's modeling intricate PDEs with Physics-Informed Neural Networks (PINNs) or crafting delightful user experiences like a music discovery app!
+I'm a **Mathematics & Computing** graduate, whose passion lies in building robust, real-world applications that blend clean engineering with innovative solutions. From designing secure systems to exploring the depths of machine learning, I thrive on bringing complex ideas to life through code.
 
 Here's a glimpse into my world:
 
--   **Education:** B.Tech in Mathematics & Computing, Indian Institute of Technology Goa (Expected Graduation: 2026)
 -   **Interests:**
     -   **Tech:** Full-stack development, machine learning, data science, algorithms, system design.
     -   **Hobbies:** Playing the guitar 🎸, an avid football (⚽) addict (huge Real Madrid fan!), and a keen chess ♟️ player.
     -   **Curiosities:** Cosmology and the mysteries of the universe.
--   **Aspirations:** Aspiring Software Development Engineer (SDE) with a knack for problem-solving.
 -   **Portfolio:** Explore my work at [Portfolio](https://www.rujuldwivedi.in)
 -   **Resume:** Check out my detailed resume at [Resume](https://www.tinyurl.com/rujuldwivedi)
 
@@ -48,7 +44,7 @@ My journey has seen me tackle challenging problems and build impactful solutions
 -   Developed and implemented a **BERT + LSTM pipeline** for classifying highly imbalanced datasets, achieving an impressive **97.5% accuracy**.
 -   Engineered a data preprocessing module for text data, significantly improving model performance and robustness.
 
-### **Research Intern** @ IIT Goa
+### **Research Assistant** @ IIT Goa
 *Aug 2024 – Nov 2024*
 
 -   Applied **Physics-Informed Neural Networks (PINNs)** to effectively solve Black-Scholes Partial Differential Equations (PDEs), demonstrating a novel approach to financial modeling.
