@@ -18,8 +18,8 @@ Here's a glimpse into my world:
     -   **Tech:** Full-stack development, machine learning, data science, algorithms, system design.
     -   **Hobbies:** Playing the guitar 🎸, an avid football (⚽) addict (huge Real Madrid fan!), and a keen chess ♟️ player.
     -   **Curiosities:** Cosmology and the mysteries of the universe.
--   **Portfolio:** Explore my work at [Portfolio](https://www.rujuldwivedi.in)
--   **Resume:** Check out my detailed resume at [Resume](https://www.tinyurl.com/rujuldwivedi)
+-   **Portfolio:** Check out my [website](https://www.rujuldwivedi.in)
+-   **Resume:** Check out my detailed [resume](https://www.tinyurl.com/rujuldwivedi)
 
 ---
 
