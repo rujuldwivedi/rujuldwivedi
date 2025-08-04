@@ -23,24 +23,6 @@ Here's a glimpse into my world:
 
 ---
 
-## 💼 Experience
-
-My journey has seen me tackle challenging problems and build impactful solutions:
-
-### **Data Analyst Intern** @ LatentView Analytics
-*Jan 2025 – Apr 2025*
-
--   Developed and implemented a **BERT + LSTM pipeline** for classifying highly imbalanced datasets, achieving an impressive **97.5% accuracy**.
--   Engineered a data preprocessing module for text data, significantly improving model performance and robustness.
-
-### **Research Assistant** @ IIT Goa
-*Aug 2024 – Nov 2024*
-
--   Applied **Physics-Informed Neural Networks (PINNs)** to effectively solve Black-Scholes Partial Differential Equations (PDEs), demonstrating a novel approach to financial modeling.
--   Contributed to research at the intersection of machine learning and mathematical finance.
-
----
-
 ## 🛠️ Tech Stack
 
 I'm proficient across a wide array of technologies, constantly expanding my toolkit to build innovative solutions.
