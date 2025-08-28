@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Rujul Dwivedi 👋</h1>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQH5EiOoYBNjJg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1721237852291?e=1756339200&v=beta&t=yzDn2tGhcpBHh2jEtIS0qeL2e_lLTKu5DhQl0WYdhhQ" alt="Rujul Dwivedi Banner" width="25%" />
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQHa7hvHe_vl7g/profile-displayphoto-scale_400_400/B56Zjv5VAbHUAo-/0/1756371441494?e=1759363200&v=beta&t=xDiRVFgNMBGPIR-5LHUHcXYRiJudtQZxBNQnlRAT84Q" alt="Rujul Dwivedi Banner" width="25%" />
   <br/>
   🚀 Cosmology Afficianado | 🧠 Mathematics Enthusiast | 💻 Software Developer
 </p>
